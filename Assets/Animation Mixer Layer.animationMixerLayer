@@ -1,0 +1,17 @@
+- !<AnimationMixerLayer/aab23d74-5d52-4021-86fd-6e63182c28d1>
+  PackagePath: ""
+  Layer: menu
+  Name: Key.001Action.001
+  Weight: 1.000000
+  SpeedRatio: 1.000000
+  From: 0.000000
+  To: 3.000000
+  Offset: 0.000000
+  FPS: 30.000000
+  NumCycles: -1
+  Reversed: true
+  Disabled: false
+  PostInfinity: Cycle
+  BlendMode: Additive
+  ScaleMode: Multiply
+  RangeType: FrameIndex
