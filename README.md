@@ -23,8 +23,8 @@ The project integrates:
 ### 1. Guided Breathing Practice
 - **AI-Generated Scripts**: Each session creates unique, contextually-aware breathing guidance
 - **Natural Voice Synthesis**: Calm, therapeutic voice using OpenAI's TTS (Coral voice)
-- **Structured Breathwork**: 4-4-6 breathing pattern (inhale 4s, hold 4s, exhale 6s) repeated across 3 cycles
-- **Real-time Phase Display**: Visual text cues synchronized with breathing phases
+- **Structured Breathwork**: Variety of breathing pattern like 4-4-6 (inhale 4s, hold 4s, exhale 6s) repeated across 3 cycles
+
 
 ### 2. Generative Zen Spaces
 - **Dynamic Environment Generation**: AI creates unique calming visuals per session
