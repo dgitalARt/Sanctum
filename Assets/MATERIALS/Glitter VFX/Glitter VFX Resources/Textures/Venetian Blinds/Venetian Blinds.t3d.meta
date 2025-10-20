@@ -1,0 +1,30 @@
+- !<AssetImportMetadata/b8e0637d-c8d8-4051-ab1e-7498e155d3f9>
+  ImportedAssetIds:
+    AnimatedTexture: !<reference> 89172cb2-fdd4-4bfe-a0ed-405f0a612196
+    Venetian Blinds b w 256_0.png: !<reference> 0aa6e100-cccd-4c91-b359-f5ccb8c291b6
+  ImporterName: LensAnimationImporter
+  PrimaryAsset: !<reference> 89172cb2-fdd4-4bfe-a0ed-405f0a612196
+  PackageType: LegacyPackage
+  PackagePolicy: CannotBeUnpackedTransparent
+  ExtraData:
+    {}
+  AssetDataMap:
+    AnimatedTexture: !<own> 3218dbd2-021d-46f1-87ed-a0d62256482f
+  DependentFiles:
+    - Venetian Blinds b w 256_0.png
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<SingleCompressionSettings>
+    CompressorName: None
+    CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<AnimatedTextureData/3218dbd2-021d-46f1-87ed-a0d62256482f>
+  AutoPlay: true
+  Reversed: false
+  PingPong: false
+  CurrentSequence: default
+  KeyFramesData:
+    default:
+      - time: 0.000000
+        value: 0
+      - time: 2.639999
+        value: 66

@@ -1,0 +1,44 @@
+- !<AssetImportMetadata/3cc428ab-480d-c09f-8245-92f0ddd343fd>
+  ImportedAssetIds:
+    TypeScriptAsset: !<reference> b4d24b9a-d25c-4d6a-b28e-b70cd71adff9
+  ImporterName: TypeScriptAssetImporter
+  PrimaryAsset: !<reference> b4d24b9a-d25c-4d6a-b28e-b70cd71adff9
+  PackageType: NotAPackage
+  PackagePolicy: CannotBeUnpacked
+  ExtraData:
+    {}
+  AssetDataMap:
+    TypeScriptAsset: !<own> ff3396bd-dfb3-4483-ab73-fa696c7af781
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<TypeScriptAssetData/ff3396bd-dfb3-4483-ab73-fa696c7af781>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 360fbf07-5142-4fa7-8cd1-d815a992984d
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  CurrentVisibility: Editable
+  MaxVisibility: Editable
+  ScriptInputsHidden:
+    _boundingHeightOffset: false
+    _scrollBarMeshVisual: false
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  DefaultScriptInputs:
+    - _scrollBarMeshVisual: !<reference.RenderMeshVisual> 00000000-0000-0000-0000-000000000000
+      _boundingHeightOffset: !<float> 0.000000
+  ScriptTypes:
+    -
+      {}
+  InputLines:
+    - '// @input Component.RenderMeshVisual _scrollBarMeshVisual {"hint":"The mesh visual of the scroll bar, used to calculate the height offset that should be used to prevent the mesh from extending past the canvas. This mesh will also be disabled whenever setting this component to disabled."}'
+    - '// @input float _boundingHeightOffset {"hint":"Additional offset (in cm) determining how far the top edge of the ScrollBar mesh should sit from the edge of the canvas when at the top of the content."}'

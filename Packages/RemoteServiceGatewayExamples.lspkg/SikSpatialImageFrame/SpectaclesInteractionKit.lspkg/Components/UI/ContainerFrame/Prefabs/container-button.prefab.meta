@@ -1,0 +1,100 @@
+- !<AssetImportMetadata/12447ecf-0958-6d9c-f3a3-7d9ae96c73c9>
+  ImportedAssetIds:
+    ObjectPrefab: !<reference> d8e4e7d2-3aa5-4e41-b184-0d3af0dac5a7
+  ImporterName: ObjectPrefabImporter
+  PrimaryAsset: !<reference> d8e4e7d2-3aa5-4e41-b184-0d3af0dac5a7
+  PackageType: NotAPackage
+  PackagePolicy: CannotBeUnpacked
+  ExtraData:
+    {}
+  AssetDataMap:
+    ObjectPrefab: !<own> 96a32e89-1500-4d29-a2e4-7e45a2d041e9
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<RenderMeshVisual/01ddbb2f-4f27-44ce-a70a-b7c88fe5249b>
+  PrefabRemaps:
+    []
+  Name: component_6
+  Enabled: true
+  RenderOrder: 1
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> c81f2a68-d983-405b-9628-7f4e4a378401
+  Mesh: !<reference> 1f5456e5-cf13-454f-a61f-fcd2b456cc3a
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: true
+  BlendShapes:
+    Pinch: 0.000000
+    Z depth: 1.000000
+- !<ObjectPrefab/1cda3c37-5af0-4873-b55d-d15374581699>
+  PackagePath: ""
+  objects:
+    - !<own> b2a2469a-e7c2-487e-9c4a-4e424ff3db1a
+  LazyLoading: false
+  RetainAssets: true
+- !<ScriptComponent/858da63d-9c4c-4f0e-a480-411e34c90f4f>
+  PrefabRemaps:
+    []
+  Name: Interactable
+  Enabled: true
+  ScriptAsset: !<reference> 1fc98b66-fab9-47ac-ad8a-b319a4ad85d1
+  ScriptInputsDefault:
+    targetingMode: true
+    enableInstantDrag: true
+    isScrollable: true
+    allowMultipleInteractors: true
+    enablePokeDirectionality: true
+    acceptableXDirections: true
+    acceptableYDirections: true
+    acceptableZDirections: true
+    isSynced: true
+    acceptableSyncInteractionTypes: true
+  ScriptTypesDefault:
+    {}
+  ScriptInputs:
+    "":
+      targetingMode: !<float> 3.000000
+      enableInstantDrag: false
+      isScrollable: false
+      allowMultipleInteractors: true
+      enablePokeDirectionality: false
+      acceptableXDirections: !<float> 0.000000
+      acceptableYDirections: !<float> 0.000000
+      acceptableZDirections: !<float> 1.000000
+      isSynced: true
+      acceptableSyncInteractionTypes: !<float> 7.000000
+  ScriptTypes:
+    "":
+      {}
+- !<ObjectPrefabAssetData/96a32e89-1500-4d29-a2e4-7e45a2d041e9>
+  SourceRemaps:
+    - 45dc00da-1d5c-4616-b6a5-92338428459f: b2a2469a-e7c2-487e-9c4a-4e424ff3db1a
+    - beba8576-3bc1-4f57-a95f-ee493c7aa5b3: 858da63d-9c4c-4f0e-a480-411e34c90f4f
+    - d8e4e7d2-3aa5-4e41-b184-0d3af0dac5a7: 1cda3c37-5af0-4873-b55d-d15374581699
+    - eb7b02dc-4b61-4a98-adc9-9e8c7859bf9e: 01ddbb2f-4f27-44ce-a70a-b7c88fe5249b
+  SourceState: !<own> 1cda3c37-5af0-4873-b55d-d15374581699
+- !<SceneObject/b2a2469a-e7c2-487e-9c4a-4e424ff3db1a>
+  PrefabRemaps:
+    []
+  Name: container-button
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: -1.935684, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 01ddbb2f-4f27-44ce-a70a-b7c88fe5249b
+    - !<own> 858da63d-9c4c-4f0e-a480-411e34c90f4f

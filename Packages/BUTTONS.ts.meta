@@ -1,0 +1,86 @@
+- !<AssetImportMetadata/75a149a1-b4f2-41e7-9a65-db80fabb4c73>
+  ImportedAssetIds:
+    TypeScriptAsset: !<reference> 7dc7f81f-3c3d-4605-bc6a-5823955b47a2
+  ImporterName: TypeScriptAssetImporter
+  PrimaryAsset: !<reference> 7dc7f81f-3c3d-4605-bc6a-5823955b47a2
+  PackageType: NotAPackage
+  PackagePolicy: CannotBeUnpacked
+  ExtraData:
+    {}
+  AssetDataMap:
+    TypeScriptAsset: !<own> 7bc039e4-cfb5-4417-af9b-4324023f0950
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<TypeScriptAssetData/7bc039e4-cfb5-4417-af9b-4324023f0950>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: a0ebf19a-b9b8-42d3-b211-afc546ec233d
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  CurrentVisibility: Editable
+  MaxVisibility: Editable
+  ScriptInputsHidden:
+    animationObject: false
+    audioComponent1: false
+    audioComponent2: false
+    audioComponent3: false
+    audioComponent4: false
+    audioComponent5: false
+    audioComponent6: false
+    audioComponent7: false
+    button1: false
+    button2: false
+    button3: false
+    button4: false
+    button5: false
+    button6: false
+    button7: false
+    debugText: false
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  DefaultScriptInputs:
+    - button1: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      button2: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      button3: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      button4: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      button5: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      button6: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      button7: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      audioComponent1: !<reference.AudioComponent> 00000000-0000-0000-0000-000000000000
+      audioComponent2: !<reference.AudioComponent> 00000000-0000-0000-0000-000000000000
+      audioComponent3: !<reference.AudioComponent> 00000000-0000-0000-0000-000000000000
+      audioComponent4: !<reference.AudioComponent> 00000000-0000-0000-0000-000000000000
+      audioComponent5: !<reference.AudioComponent> 00000000-0000-0000-0000-000000000000
+      audioComponent6: !<reference.AudioComponent> 00000000-0000-0000-0000-000000000000
+      audioComponent7: !<reference.AudioComponent> 00000000-0000-0000-0000-000000000000
+      debugText: !<reference.Text> 00000000-0000-0000-0000-000000000000
+      animationObject: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+  ScriptTypes:
+    -
+      {}
+  InputLines:
+    - // @input SceneObject button1
+    - // @input SceneObject button2
+    - // @input SceneObject button3
+    - // @input SceneObject button4
+    - // @input SceneObject button5
+    - // @input SceneObject button6
+    - // @input SceneObject button7
+    - // @input Component.AudioComponent audioComponent1
+    - // @input Component.AudioComponent audioComponent2
+    - // @input Component.AudioComponent audioComponent3
+    - // @input Component.AudioComponent audioComponent4
+    - // @input Component.AudioComponent audioComponent5
+    - // @input Component.AudioComponent audioComponent6
+    - // @input Component.AudioComponent audioComponent7
+    - // @input Component.Text debugText
+    - // @input SceneObject animationObject

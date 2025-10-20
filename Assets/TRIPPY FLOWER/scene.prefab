@@ -1,0 +1,2552 @@
+- !<ObjectPrefab/a6479ca4-4e57-49c7-9555-af979b0d5083>
+  PackagePath: ""
+  objects:
+    - !<own> 251fa487-f966-41b3-b59d-2d69ad776d87
+  LazyLoading: false
+  RetainAssets: true
+- !<SceneObject/00102887-0a38-41b3-aa57-fe35870c58bd>
+  PrefabRemaps:
+    []
+  Name: Arc024
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: -21.858343, y: -13.075163, z: -0.639572}
+    Rotation: {x: 0.000000, y: -0.000000, z: 159.999985}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 29f1e83a-43b8-487b-97f3-9478276d9c43
+  Components:
+    []
+- !<SceneObject/008e5831-607e-4d25-8f88-e16a4be7619e>
+  PrefabRemaps:
+    []
+  Name: Object_7
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 38.250114, y: 31.371138, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> d57ec710-2ceb-4463-b687-d381ecb5f8b0
+  Components:
+    []
+- !<SceneObject/02e725d4-677b-4a15-b3bd-2cf460d7cbbc>
+  PrefabRemaps:
+    []
+  Name: Object_92
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 38.250114, y: 31.371136, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 9a22f694-c898-4884-a308-44dcd908574b
+  Components:
+    []
+- !<RenderMeshVisual/03f9442c-090f-42d8-b03b-bfa52460aff5>
+  PrefabRemaps:
+    []
+  Name: Arc015_01 - Default_0
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 50b33dda-44f0-4e0d-9e05-805d811d987b
+  Mesh: !<reference> 092063bc-66dc-4c0e-b334-14641de25283
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/05c08d80-1b06-49c3-b027-2b92e660f4c4>
+  PrefabRemaps:
+    []
+  Name: Arc016_01 - Default_0
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 6f541b26-de79-407b-914e-f46104952e40
+- !<SceneObject/08660ce6-f360-404d-8297-52510dc6114b>
+  PrefabRemaps:
+    []
+  Name: Arc019_01 - Default_0
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 471e7046-de09-4ec5-acc2-819b1f5ed15b
+- !<SceneObject/086635f2-e0ff-4af8-bc34-32bc849d30f7>
+  PrefabRemaps:
+    []
+  Name: Scenes
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 0ea8f7b1-d585-4931-a73e-f20da6eb462e
+  Components:
+    []
+- !<SceneObject/0972cc35-c040-4932-95c1-c52c39f5dded>
+  PrefabRemaps:
+    []
+  Name: Arc017
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 16.672184, y: -19.255787, z: -0.639557}
+    Rotation: {x: 0.000000, y: 0.000000, z: -100.000031}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> d5df60a0-69b3-432f-876b-d9aed74e7532
+  Components:
+    []
+- !<SceneObject/0ea8f7b1-d585-4931-a73e-f20da6eb462e>
+  PrefabRemaps:
+    []
+  Name: Sketchfab_Scene
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> e3378615-49c4-4d46-9fd0-afb2f212bf46
+  Components:
+    - !<own> 49b9dd5a-0626-4b90-a6f8-699c0f8a2cae
+- !<SceneObject/103cac68-0339-41dc-ad16-78af1ab0b9c5>
+  PrefabRemaps:
+    []
+  Name: Arc018_01 - Default_0
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 4928706f-8576-4805-9c91-d7822052d506
+- !<RenderMeshVisual/10fde04c-fabd-4407-a124-54c7b50e811b>
+  PrefabRemaps:
+    []
+  Name: Arc020_01 - Default_0
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 50b33dda-44f0-4e0d-9e05-805d811d987b
+  Mesh: !<reference> 58a239a6-73c0-4651-b1b5-401b93112f96
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/1206696a-6433-40da-9408-156befd51eb4>
+  PrefabRemaps:
+    []
+  Name: Arc028_02 - Default_0
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> d100b983-b105-4820-b0a3-45f7605c3b9d
+- !<SceneObject/120be6d8-b441-4b6c-b110-ac8ce3beedde>
+  PrefabRemaps:
+    []
+  Name: Object_10
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 38.250114, y: 31.371138, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> d0dd4a5f-4d85-408a-861e-3734a093982d
+  Components:
+    []
+- !<SceneObject/12e9c471-8096-4a93-92c0-0aa1f952f06a>
+  PrefabRemaps:
+    []
+  Name: Group002
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000001, y: 2.651627, z: -0.000006}
+    Rotation: {x: 90.000000, y: 80.000000, z: -180.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> b61f492b-476c-4702-898c-25864a377352
+    - !<own> 60c6b1f7-145f-4ebc-a08f-f99ed3cb20f6
+    - !<own> 00102887-0a38-41b3-aa57-fe35870c58bd
+    - !<own> f915e8e6-060b-445a-982c-a3d529d469c5
+    - !<own> 3b3b3872-596c-4cc2-b759-d1b08393be95
+    - !<own> ab290209-e75a-487e-8ae2-e19dcc40e71f
+    - !<own> 3463514a-e6bc-4319-960e-1ce19fb5a846
+    - !<own> 7411fca4-ebc0-43c8-b304-02a5d63a96ac
+    - !<own> fbe3f2c0-4859-4510-aeb7-9b6d6029c9d0
+    - !<own> 13317935-f3d4-464d-9792-e8523bfc9f09
+    - !<own> 1cd341e2-7bd1-4b85-8456-a373e343f93f
+    - !<own> 862bcd4f-a261-4077-90f8-b52a24ac7b13
+    - !<own> 5551a738-f2c6-4738-b4fb-c63b8ba7f794
+    - !<own> e0c50b9b-1a11-445e-b85d-be8fc264a09c
+    - !<own> 938d3bd2-a05d-4cbb-8717-c6f77c0f2dc8
+    - !<own> 938091ae-6b6e-433a-bff8-7df200eca60a
+    - !<own> c10b21d7-ffcd-4a78-b402-7bd53e1c0082
+    - !<own> fd6b981c-6816-44b9-b4f3-ef04fff10b3c
+  Components:
+    []
+- !<SceneObject/13317935-f3d4-464d-9792-e8523bfc9f09>
+  PrefabRemaps:
+    []
+  Name: Arc031
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: -8.339915, y: -24.066431, z: -0.639572}
+    Rotation: {x: 0.000000, y: -0.000000, z: -160.000015}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> b2eda734-8b3c-4feb-a612-29670720e6b9
+  Components:
+    []
+- !<RenderMeshVisual/13ceba34-280f-4f32-ac7b-7d553fe8f2eb>
+  PrefabRemaps:
+    []
+  Name: Arc035_02 - Default_0
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> e08d3bc3-51f3-46b2-8456-ae4a50ef45b0
+  Mesh: !<reference> 37981438-5899-4b2a-940d-c4909498da6c
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/1773985c-93a7-4ee5-af31-5d438491d99d>
+  PrefabRemaps:
+    []
+  Name: Arc016
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 9.080869, y: -23.796745, z: -0.639557}
+    Rotation: {x: 0.000000, y: 0.000000, z: -120.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 6986dd9b-d677-49da-a363-220ed65f606f
+  Components:
+    []
+- !<SceneObject/1784a137-1bff-42eb-a252-75f53fdcf7f2>
+  PrefabRemaps:
+    []
+  Name: Object_25
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 38.250114, y: 31.371138, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 5a7dcb0f-5b04-46cb-bc64-dcfc63d258f2
+  Components:
+    []
+- !<RenderMeshVisual/1bb5cb9f-e779-4b6f-bbf7-35b5dd71f9fd>
+  PrefabRemaps:
+    []
+  Name: Arc029_02 - Default_0
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> e08d3bc3-51f3-46b2-8456-ae4a50ef45b0
+  Mesh: !<reference> bdf27b94-2ee7-4c83-be02-3fb6c8a6473e
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/1bf1474f-e34d-487d-aabf-5419bfede048>
+  PrefabRemaps:
+    []
+  Name: Group001
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: -0.000004, y: -2.651596, z: -0.000007}
+    Rotation: {x: 90.000000, y: 70.000000, z: -0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 35e2055d-e2f2-485e-b2d9-5c2765407a29
+    - !<own> bc13526d-7f68-462a-a3dd-eff1f618a4a0
+    - !<own> d4b4fb36-3348-44aa-b5f5-7682d326a080
+    - !<own> ec03184e-c4db-49b2-bfae-0833d3a31e26
+    - !<own> bc1e70af-18d1-47d3-95fc-8dcfabe1480e
+    - !<own> f4257ee0-a62e-4f6c-b8d1-256687f8a7b9
+    - !<own> de5d92d1-8542-4874-94a1-3d8fe9a15ec5
+    - !<own> d5bb69d4-5a20-4345-8f7a-dc4d42fa35de
+    - !<own> b08528e4-d886-44b4-abb8-0b128108b3cc
+    - !<own> 794b2e82-8a7e-444f-aa05-9a3bb79648e8
+    - !<own> 9e1eb421-3acf-4237-9d69-ae0fe5947a6e
+    - !<own> 1773985c-93a7-4ee5-af31-5d438491d99d
+    - !<own> 0972cc35-c040-4932-95c1-c52c39f5dded
+    - !<own> bc789b0b-6ee8-4bc6-9ceb-42037d69c32c
+    - !<own> 2bac9699-a16f-4c2b-b07a-4cbf84ab6de7
+    - !<own> f8f10206-6792-45cd-bfc3-eb7ba6f3bf2e
+    - !<own> 6049d2d4-5113-4539-843e-3f706174673b
+    - !<own> d736b2c1-e265-4f5d-9fb6-dc1753e1d2ee
+  Components:
+    []
+- !<SceneObject/1bff7523-8c0e-4934-87c3-20d85436a826>
+  PrefabRemaps:
+    []
+  Name: Object_98
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 38.250114, y: 31.371136, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 23dda892-7fd7-46e7-b0cb-cb609c2a96c5
+  Components:
+    []
+- !<SceneObject/1cd341e2-7bd1-4b85-8456-a373e343f93f>
+  PrefabRemaps:
+    []
+  Name: Arc032
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 8.339898, y: 24.066441, z: -0.639587}
+    Rotation: {x: 0.000000, y: -0.000000, z: 20.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 02e725d4-677b-4a15-b3bd-2cf460d7cbbc
+  Components:
+    []
+- !<RenderMeshVisual/1dfb59ca-994f-432d-9aa1-54031e795ed2>
+  PrefabRemaps:
+    []
+  Name: Arc004_01 - Default_0
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 50b33dda-44f0-4e0d-9e05-805d811d987b
+  Mesh: !<reference> 68b7930a-045a-4acd-9b12-2357c0199227
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/2130fa4b-416c-48a5-9556-5995254021dd>
+  PrefabRemaps:
+    []
+  Name: Object_19
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 38.250114, y: 31.371138, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> dd0ca3b7-506d-424f-8014-917b82835902
+  Components:
+    []
+- !<SceneObject/21999538-2232-4e84-88f7-cac75a52f29d>
+  PrefabRemaps:
+    []
+  Name: Object_74
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 38.250114, y: 31.371138, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> ac97bff8-a2de-40df-9936-3014adf4a1fa
+  Components:
+    []
+- !<SceneObject/23dda892-7fd7-46e7-b0cb-cb609c2a96c5>
+  PrefabRemaps:
+    []
+  Name: Arc034_02 - Default_0
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 3323b0f0-0efd-4698-ae55-a1b517c66ad0
+- !<RenderMeshVisual/2432de19-bfe5-4994-9825-ec644e5f0eae>
+  PrefabRemaps:
+    []
+  Name: Arc014_01 - Default_0
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 50b33dda-44f0-4e0d-9e05-805d811d987b
+  Mesh: !<reference> c268b05f-6962-456a-abb0-71609c0fb804
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/247b3c9f-ccbc-462e-ac7d-4d545208e665>
+  PrefabRemaps:
+    []
+  Name: Group003
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.298882, y: 0.920532, z: 0.814397}
+    Rotation: {x: -90.000000, y: -0.000000, z: -0.000000}
+    Scale: {x: 1.000000, y: 0.005246, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 1bf1474f-e34d-487d-aabf-5419bfede048
+    - !<own> 12e9c471-8096-4a93-92c0-0aa1f952f06a
+  Components:
+    []
+- !<SceneObject/251fa487-f966-41b3-b59d-2d69ad776d87>
+  PrefabRemaps:
+    []
+  Name: scene
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 100.000000, y: 100.000000, z: 100.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 086635f2-e0ff-4af8-bc34-32bc849d30f7
+  Components:
+    []
+- !<RenderMeshVisual/2718d9c3-8baa-4ec0-b24d-7ba5ada2dff1>
+  PrefabRemaps:
+    []
+  Name: Arc022_02 - Default_0
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> e08d3bc3-51f3-46b2-8456-ae4a50ef45b0
+  Mesh: !<reference> b4690408-e198-40d9-9e0f-d69a838162ba
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/275c85fc-26ca-41f0-8455-1d2ce7ad9b53>
+  PrefabRemaps:
+    []
+  Name: Object_28
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 38.250114, y: 31.371136, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 523035bf-2aa1-4dba-b9c7-f5b4674b67e6
+  Components:
+    []
+- !<SceneObject/29f1e83a-43b8-487b-97f3-9478276d9c43>
+  PrefabRemaps:
+    []
+  Name: Object_68
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 38.250114, y: 31.371138, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> e963e2f9-5e95-402a-82ed-ca3ad7c9d462
+  Components:
+    []
+- !<SceneObject/2bac9699-a16f-4c2b-b07a-4cbf84ab6de7>
+  PrefabRemaps:
+    []
+  Name: Arc018
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 22.252592, y: -12.392300, z: -0.639557}
+    Rotation: {x: 0.000000, y: 0.000000, z: -80.000031}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 94af6f66-6795-47d8-963c-ac2946d5c67e
+  Components:
+    []
+- !<SceneObject/30b9efb2-3b97-4171-bced-779a3ee52531>
+  PrefabRemaps:
+    []
+  Name: Arc004_01 - Default_0
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 1dfb59ca-994f-432d-9aa1-54031e795ed2
+- !<RenderMeshVisual/30c3fbd9-e0a0-4e40-b2c1-3451ab6c38ce>
+  PrefabRemaps:
+    []
+  Name: Arc009_01 - Default_0
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 50b33dda-44f0-4e0d-9e05-805d811d987b
+  Mesh: !<reference> b1a584b6-e29a-4dab-9e00-6e0899c96fdd
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<RenderMeshVisual/3323b0f0-0efd-4698-ae55-a1b517c66ad0>
+  PrefabRemaps:
+    []
+  Name: Arc034_02 - Default_0
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> e08d3bc3-51f3-46b2-8456-ae4a50ef45b0
+  Mesh: !<reference> 5a7bfea1-3c16-43e9-a7f8-a1d94f221ba9
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/3463514a-e6bc-4319-960e-1ce19fb5a846>
+  PrefabRemaps:
+    []
+  Name: Arc028
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: -25.012094, y: -4.810640, z: -0.639572}
+    Rotation: {x: -0.000000, y: -0.000000, z: 139.999985}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 4ed57047-73a5-4634-920e-e44723711802
+  Components:
+    []
+- !<SceneObject/35e2055d-e2f2-485e-b2d9-5c2765407a29>
+  PrefabRemaps:
+    []
+  Name: Arc010
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: -25.149019, y: 4.034111, z: -0.639557}
+    Rotation: {x: -0.000000, y: 0.000000, z: 120.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 008e5831-607e-4d25-8f88-e16a4be7619e
+  Components:
+    []
+- !<RenderMeshVisual/38ac3b94-bd08-4313-9008-9cc6d30e2902>
+  PrefabRemaps:
+    []
+  Name: Arc025_02 - Default_0
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> e08d3bc3-51f3-46b2-8456-ae4a50ef45b0
+  Mesh: !<reference> eaf75490-9de7-4ff4-995d-8ce173875d59
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/3b3b3872-596c-4cc2-b759-d1b08393be95>
+  PrefabRemaps:
+    []
+  Name: Arc026
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.394252, y: -25.467466, z: -0.639572}
+    Rotation: {x: -0.000000, y: -0.000000, z: -140.000015}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 21999538-2232-4e84-88f7-cac75a52f29d
+  Components:
+    []
+- !<SceneObject/43b41b0c-402d-40a0-823e-50aba07ce6cf>
+  PrefabRemaps:
+    []
+  Name: Object_71
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 38.250114, y: 31.371136, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> fd8d8320-4e9a-4060-b02c-2a66429c5785
+  Components:
+    []
+- !<RenderMeshVisual/45e734f7-4fcf-4f63-a310-66375e172054>
+  PrefabRemaps:
+    []
+  Name: Arc026_02 - Default_0
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> e08d3bc3-51f3-46b2-8456-ae4a50ef45b0
+  Mesh: !<reference> b7770f50-2674-45ba-91e0-8a4e35d55ff7
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<RenderMeshVisual/471e7046-de09-4ec5-acc2-819b1f5ed15b>
+  PrefabRemaps:
+    []
+  Name: Arc019_01 - Default_0
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 50b33dda-44f0-4e0d-9e05-805d811d987b
+  Mesh: !<reference> 4d7512c0-ae97-4504-a70c-ae3943413fb5
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/471fb7df-1cd9-4e16-a14e-2a9e21bafba5>
+  PrefabRemaps:
+    []
+  Name: Arc031_02 - Default_0
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 9a634d68-5430-4c59-828a-8aa254a593d2
+- !<SceneObject/48e81df5-c3f2-4665-b338-4b631c0d915e>
+  PrefabRemaps:
+    []
+  Name: Arc005_01 - Default_0
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 5e8dcb97-0692-406f-b650-91150be89b86
+- !<RenderMeshVisual/4928706f-8576-4805-9c91-d7822052d506>
+  PrefabRemaps:
+    []
+  Name: Arc018_01 - Default_0
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 50b33dda-44f0-4e0d-9e05-805d811d987b
+  Mesh: !<reference> b7f56536-f2ed-4d7e-a83d-351d9a6f5f05
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<AnimationPlayer/49b9dd5a-0626-4b90-a6f8-699c0f8a2cae>
+  PrefabRemaps:
+    []
+  Name: component_36
+  Enabled: true
+  Autoplay: true
+  ClipRangeType: Frames
+  AnimationClips:
+    - !<AnimationClip>
+      AnimationAsset: !<reference> 3ab32f8d-b235-474f-b89b-936b3b193f83
+      Name: flower2_0
+      Weight: 1.000000
+      PlaybackSpeed: 1.000000
+      Begin: 0.000000
+      End: 3000.000000
+      Offset: 0.000000
+      Reversed: false
+      Disabled: false
+      BlendMode: Default
+      ScaleMode: Multiply
+      PlaybackMode: Loop
+- !<SceneObject/4ed57047-73a5-4634-920e-e44723711802>
+  PrefabRemaps:
+    []
+  Name: Object_80
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 38.250114, y: 31.371138, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 1206696a-6433-40da-9408-156befd51eb4
+  Components:
+    []
+- !<RenderMeshVisual/508e6ec4-77df-47a5-b032-75d045b3216f>
+  PrefabRemaps:
+    []
+  Name: Arc036_02 - Default_0
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> e08d3bc3-51f3-46b2-8456-ae4a50ef45b0
+  Mesh: !<reference> 10bafb2d-8a1c-4b21-a8ba-199882f17d19
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<RenderMeshVisual/515a059c-c166-4243-8ca4-372fd1054734>
+  PrefabRemaps:
+    []
+  Name: Arc007_01 - Default_0
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 50b33dda-44f0-4e0d-9e05-805d811d987b
+  Mesh: !<reference> fb710f09-d8b1-4206-9bbe-aee54f11bb94
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/523035bf-2aa1-4dba-b9c7-f5b4674b67e6>
+  PrefabRemaps:
+    []
+  Name: Arc008_01 - Default_0
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> cafa5c4f-2a52-4f49-910d-fdcfc26b0188
+- !<SceneObject/52f197ea-961b-4a1c-be64-554501be6cc8>
+  PrefabRemaps:
+    []
+  Name: Object_101
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 38.250114, y: 31.371138, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 688d94a9-b9ae-4efd-9656-b9303815cae9
+  Components:
+    []
+- !<SceneObject/5551a738-f2c6-4738-b4fb-c63b8ba7f794>
+  PrefabRemaps:
+    []
+  Name: Arc034
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 16.672184, y: -19.255787, z: -0.639572}
+    Rotation: {x: 0.000000, y: -0.000000, z: -100.000031}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 1bff7523-8c0e-4934-87c3-20d85436a826
+  Components:
+    []
+- !<SceneObject/56bf5ebf-4e97-4bef-b87e-1713ec9e5d27>
+  PrefabRemaps:
+    []
+  Name: Object_22
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 38.250114, y: 31.371138, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> b8efa5f9-0c53-4ad2-931e-a6f0d84bd4b4
+  Components:
+    []
+- !<SceneObject/576f1245-7b5b-408e-af57-f7e83e16522c>
+  PrefabRemaps:
+    []
+  Name: Object_55
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 38.250114, y: 31.371138, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 6f137838-1b6d-4fa2-89ca-ca6425262124
+  Components:
+    []
+- !<SceneObject/5a7dcb0f-5b04-46cb-bc64-dcfc63d258f2>
+  PrefabRemaps:
+    []
+  Name: Arc011_01 - Default_0
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 9e6726af-a5fb-471a-946e-dd64090f57f2
+- !<RenderMeshVisual/5b056559-119d-423f-85cc-9bb521d7a010>
+  PrefabRemaps:
+    []
+  Name: Arc017_01 - Default_0
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 50b33dda-44f0-4e0d-9e05-805d811d987b
+  Mesh: !<reference> 09536bca-a1a0-4caa-a42f-a7c1e0328e33
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/5ddae662-75d7-40ad-93a0-5e0221a90537>
+  PrefabRemaps:
+    []
+  Name: Arc021_01 - Default_0
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> a3009d6d-0806-42b6-a32c-cb051122f3b1
+- !<RenderMeshVisual/5e8dcb97-0692-406f-b650-91150be89b86>
+  PrefabRemaps:
+    []
+  Name: Arc005_01 - Default_0
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 50b33dda-44f0-4e0d-9e05-805d811d987b
+  Mesh: !<reference> fbb0273f-0845-4990-89f4-92cccdde78fd
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/5fa4b54e-c8a4-4ecd-a303-74f1ca2be762>
+  PrefabRemaps:
+    []
+  Name: Arc006_01 - Default_0
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> f07f3b09-4dd0-4c47-830b-a06544c2cd97
+- !<SceneObject/6049d2d4-5113-4539-843e-3f706174673b>
+  PrefabRemaps:
+    []
+  Name: Arc020
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 25.012098, y: 4.810638, z: -0.639557}
+    Rotation: {x: -0.000000, y: 0.000000, z: -40.000034}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 576f1245-7b5b-408e-af57-f7e83e16522c
+  Components:
+    []
+- !<SceneObject/60b4f056-d92e-443d-b4cb-39e217ff7909>
+  PrefabRemaps:
+    []
+  Name: Object_110
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 38.250114, y: 31.371138, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> a4fa5720-82c0-4901-8e81-50348dcb9856
+  Components:
+    []
+- !<SceneObject/60c6b1f7-145f-4ebc-a08f-f99ed3cb20f6>
+  PrefabRemaps:
+    []
+  Name: Arc023
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: -9.080871, y: 23.796745, z: -0.639587}
+    Rotation: {x: -0.000000, y: -0.000000, z: 60.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> b9ae9037-b992-4699-9307-6b3977ef7be4
+  Components:
+    []
+- !<SceneObject/636eb1b7-17fe-471f-a61e-e9f51125a1c8>
+  PrefabRemaps:
+    []
+  Name: Object_86
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 38.250114, y: 31.371138, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> aedf4dd2-484c-4708-ad1b-adffdc76d2b2
+  Components:
+    []
+- !<RenderMeshVisual/64412e32-f695-4919-8dec-4183576418fb>
+  PrefabRemaps:
+    []
+  Name: Arc024_02 - Default_0
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> e08d3bc3-51f3-46b2-8456-ae4a50ef45b0
+  Mesh: !<reference> 10faf0a2-5fa3-4dd8-92b7-3bcd7ff6ccab
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/688d94a9-b9ae-4efd-9656-b9303815cae9>
+  PrefabRemaps:
+    []
+  Name: Arc035_02 - Default_0
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 13ceba34-280f-4f32-ac7b-7d553fe8f2eb
+- !<SceneObject/6986dd9b-d677-49da-a363-220ed65f606f>
+  PrefabRemaps:
+    []
+  Name: Object_40
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 38.250114, y: 31.371136, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 05c08d80-1b06-49c3-b027-2b92e660f4c4
+  Components:
+    []
+- !<SceneObject/6a8fee9e-11a7-47af-948e-2fe3d0bf77da>
+  PrefabRemaps:
+    []
+  Name: Arc029_02 - Default_0
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 1bb5cb9f-e779-4b6f-bbf7-35b5dd71f9fd
+- !<SceneObject/6ce8654f-d123-44e6-8b89-6c9d08fe026c>
+  PrefabRemaps:
+    []
+  Name: Object_95
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 38.250114, y: 31.371136, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> dbae0a36-e5ed-4e48-92ed-7ebc12831617
+  Components:
+    []
+- !<RenderMeshVisual/6d4b9b5d-d148-46c6-854c-ddfff1cabc7c>
+  PrefabRemaps:
+    []
+  Name: Arc027_02 - Default_0
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> e08d3bc3-51f3-46b2-8456-ae4a50ef45b0
+  Mesh: !<reference> a1a7c4fa-ae9f-4637-8d97-9af25dfef555
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/6f137838-1b6d-4fa2-89ca-ca6425262124>
+  PrefabRemaps:
+    []
+  Name: Arc020_01 - Default_0
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 10fde04c-fabd-4407-a124-54c7b50e811b
+- !<RenderMeshVisual/6f541b26-de79-407b-914e-f46104952e40>
+  PrefabRemaps:
+    []
+  Name: Arc016_01 - Default_0
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 50b33dda-44f0-4e0d-9e05-805d811d987b
+  Mesh: !<reference> 66e28604-c1f6-41a8-8f4f-15b34500414f
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/7411fca4-ebc0-43c8-b304-02a5d63a96ac>
+  PrefabRemaps:
+    []
+  Name: Arc029
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: -16.672194, y: 19.255791, z: -0.639587}
+    Rotation: {x: 0.000000, y: 0.000000, z: 80.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 960b8c45-fb28-4d13-9ae8-02080551ffa8
+  Components:
+    []
+- !<RenderMeshVisual/77397355-4444-414b-85cb-12e6b171af98>
+  PrefabRemaps:
+    []
+  Name: Arc030_02 - Default_0
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> e08d3bc3-51f3-46b2-8456-ae4a50ef45b0
+  Mesh: !<reference> c4fd66ef-6397-4324-a872-298662eb6c1d
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/77ff6376-7416-4e05-91d8-e0bebd60314a>
+  PrefabRemaps:
+    []
+  Name: Arc037_02 - Default_0
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 9d46ead1-cd98-4c92-a52d-a5809d7bf44a
+- !<SceneObject/794b2e82-8a7e-444f-aa05-9a3bb79648e8>
+  PrefabRemaps:
+    []
+  Name: Arc014
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: -8.339915, y: -24.066429, z: -0.639557}
+    Rotation: {x: 0.000000, y: -0.000000, z: -160.000015}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 80ff9663-9a65-477d-bebe-e613a52e013a
+  Components:
+    []
+- !<SceneObject/7ac272ba-1b21-426b-b31b-662e35181656>
+  PrefabRemaps:
+    []
+  Name: 0b6e30b96d3d403caa0b3ec4b200f341.fbx
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 90.000000, y: -0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 8b1ae63e-2d2a-4b5b-96d7-50a148fbf275
+  Components:
+    []
+- !<SceneObject/80ff9663-9a65-477d-bebe-e613a52e013a>
+  PrefabRemaps:
+    []
+  Name: Object_34
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 38.250114, y: 31.371138, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> a9b18fb6-9ac5-4060-9dc1-775d7a349000
+  Components:
+    []
+- !<SceneObject/862bcd4f-a261-4077-90f8-b52a24ac7b13>
+  PrefabRemaps:
+    []
+  Name: Arc033
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 9.080870, y: -23.796745, z: -0.639572}
+    Rotation: {x: 0.000000, y: 0.000000, z: -120.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 6ce8654f-d123-44e6-8b89-6c9d08fe026c
+  Components:
+    []
+- !<SceneObject/88b26f1c-3e5f-4a1b-af99-619e2e8885a5>
+  PrefabRemaps:
+    []
+  Name: Object_37
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 38.250114, y: 31.371136, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 48e81df5-c3f2-4665-b338-4b631c0d915e
+  Components:
+    []
+- !<RenderMeshVisual/89dd7b38-8184-4786-affb-59cb5c1210ab>
+  PrefabRemaps:
+    []
+  Name: Arc023_02 - Default_0
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> e08d3bc3-51f3-46b2-8456-ae4a50ef45b0
+  Mesh: !<reference> 53aa6070-b949-4064-8620-d2da7419de5e
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/8b1ae63e-2d2a-4b5b-96d7-50a148fbf275>
+  PrefabRemaps:
+    []
+  Name: Object_2
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> b9505b0b-a5df-42cc-8884-821e8045815c
+  Components:
+    []
+- !<SceneObject/938091ae-6b6e-433a-bff8-7df200eca60a>
+  PrefabRemaps:
+    []
+  Name: Arc037
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 25.149021, y: -4.034112, z: -0.639572}
+    Rotation: {x: 0.000000, y: 0.000000, z: -60.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> bfe3aac3-d1a2-4683-967f-bcb20dac5f53
+  Components:
+    []
+- !<SceneObject/938d3bd2-a05d-4cbb-8717-c6f77c0f2dc8>
+  PrefabRemaps:
+    []
+  Name: Arc036
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 22.252592, y: -12.392299, z: -0.639572}
+    Rotation: {x: 0.000000, y: -0.000000, z: -80.000023}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> c58427e3-c024-43ec-849f-0f9009f386fe
+  Components:
+    []
+- !<SceneObject/94af6f66-6795-47d8-963c-ac2946d5c67e>
+  PrefabRemaps:
+    []
+  Name: Object_49
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 38.250114, y: 31.371138, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 103cac68-0339-41dc-ad16-78af1ab0b9c5
+  Components:
+    []
+- !<SceneObject/960b8c45-fb28-4d13-9ae8-02080551ffa8>
+  PrefabRemaps:
+    []
+  Name: Object_83
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 38.250114, y: 31.371136, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 6a8fee9e-11a7-47af-948e-2fe3d0bf77da
+  Components:
+    []
+- !<SceneObject/9a22f694-c898-4884-a308-44dcd908574b>
+  PrefabRemaps:
+    []
+  Name: Arc032_02 - Default_0
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> b0196d5b-f593-4ea1-aa65-618de6532cdb
+- !<RenderMeshVisual/9a634d68-5430-4c59-828a-8aa254a593d2>
+  PrefabRemaps:
+    []
+  Name: Arc031_02 - Default_0
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> e08d3bc3-51f3-46b2-8456-ae4a50ef45b0
+  Mesh: !<reference> 782089f6-9449-46b0-a9d1-abe903cad4fb
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<RenderMeshVisual/9d46ead1-cd98-4c92-a52d-a5809d7bf44a>
+  PrefabRemaps:
+    []
+  Name: Arc037_02 - Default_0
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> e08d3bc3-51f3-46b2-8456-ae4a50ef45b0
+  Mesh: !<reference> 8db3db09-7b73-4237-84a9-99f83cee8d3b
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/9e1eb421-3acf-4237-9d69-ae0fe5947a6e>
+  PrefabRemaps:
+    []
+  Name: Arc005
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 8.339898, y: 24.066441, z: -0.639557}
+    Rotation: {x: 0.000000, y: 0.000000, z: 20.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 88b26f1c-3e5f-4a1b-af99-619e2e8885a5
+  Components:
+    []
+- !<RenderMeshVisual/9e6726af-a5fb-471a-946e-dd64090f57f2>
+  PrefabRemaps:
+    []
+  Name: Arc011_01 - Default_0
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 50b33dda-44f0-4e0d-9e05-805d811d987b
+  Mesh: !<reference> d7201801-3359-4941-a453-94675c7b5463
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<RenderMeshVisual/a3009d6d-0806-42b6-a32c-cb051122f3b1>
+  PrefabRemaps:
+    []
+  Name: Arc021_01 - Default_0
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 50b33dda-44f0-4e0d-9e05-805d811d987b
+  Mesh: !<reference> e7ea2a59-dff6-49a6-b245-ee313859e7ab
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/a4fa5720-82c0-4901-8e81-50348dcb9856>
+  PrefabRemaps:
+    []
+  Name: Arc038_02 - Default_0
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> a80de0bd-0831-4533-a889-c14b6e476fea
+- !<RenderMeshVisual/a80de0bd-0831-4533-a889-c14b6e476fea>
+  PrefabRemaps:
+    []
+  Name: Arc038_02 - Default_0
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> e08d3bc3-51f3-46b2-8456-ae4a50ef45b0
+  Mesh: !<reference> fea1181f-ada4-4504-b1b8-6aead192d2cd
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/a9b18fb6-9ac5-4060-9dc1-775d7a349000>
+  PrefabRemaps:
+    []
+  Name: Arc014_01 - Default_0
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 2432de19-bfe5-4994-9825-ec644e5f0eae
+- !<SceneObject/ab290209-e75a-487e-8ae2-e19dcc40e71f>
+  PrefabRemaps:
+    []
+  Name: Arc027
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: -16.068155, y: -19.762627, z: -0.639572}
+    Rotation: {x: 0.000000, y: -0.000000, z: 179.999985}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> bab1bbd7-550b-46df-be16-b7ed4a4cd6fa
+  Components:
+    []
+- !<SceneObject/ac97bff8-a2de-40df-9936-3014adf4a1fa>
+  PrefabRemaps:
+    []
+  Name: Arc026_02 - Default_0
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 45e734f7-4fcf-4f63-a310-66375e172054
+- !<RenderMeshVisual/ae924daf-6ef4-4586-a2de-2b86fd209601>
+  PrefabRemaps:
+    []
+  Name: Arc013_01 - Default_0
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 50b33dda-44f0-4e0d-9e05-805d811d987b
+  Mesh: !<reference> 5589c0d7-0a83-45ec-b939-123f3a953d6a
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/aedf4dd2-484c-4708-ad1b-adffdc76d2b2>
+  PrefabRemaps:
+    []
+  Name: Arc030_02 - Default_0
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 77397355-4444-414b-85cb-12e6b171af98
+- !<RenderMeshVisual/b0196d5b-f593-4ea1-aa65-618de6532cdb>
+  PrefabRemaps:
+    []
+  Name: Arc032_02 - Default_0
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> e08d3bc3-51f3-46b2-8456-ae4a50ef45b0
+  Mesh: !<reference> 9500cb93-a10e-4688-811b-e4fca916110c
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/b08528e4-d886-44b4-abb8-0b128108b3cc>
+  PrefabRemaps:
+    []
+  Name: Arc009
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: -22.252600, y: 12.392297, z: -0.639557}
+    Rotation: {x: 0.000000, y: 0.000000, z: 100.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> fad8d1d5-da41-4554-901f-1681b7abac11
+  Components:
+    []
+- !<SceneObject/b2d961c5-0c47-4cd9-8ad9-388286d56f6f>
+  PrefabRemaps:
+    []
+  Name: Object_13
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 38.250114, y: 31.371138, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> d7552184-dcd6-438b-b782-a7b25b19d5b9
+  Components:
+    []
+- !<SceneObject/b2eda734-8b3c-4feb-a612-29670720e6b9>
+  PrefabRemaps:
+    []
+  Name: Object_89
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 38.250114, y: 31.371138, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 471fb7df-1cd9-4e16-a14e-2a9e21bafba5
+  Components:
+    []
+- !<SceneObject/b61f492b-476c-4702-898c-25864a377352>
+  PrefabRemaps:
+    []
+  Name: Arc022
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: -25.149019, y: 4.034112, z: -0.639572}
+    Rotation: {x: 0.000000, y: 0.000000, z: 120.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> be16643c-5da5-40b3-bdde-58ad9327e26c
+  Components:
+    []
+- !<SceneObject/b8efa5f9-0c53-4ad2-931e-a6f0d84bd4b4>
+  PrefabRemaps:
+    []
+  Name: Arc013_01 - Default_0
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> ae924daf-6ef4-4586-a2de-2b86fd209601
+- !<SceneObject/b9505b0b-a5df-42cc-8884-821e8045815c>
+  PrefabRemaps:
+    []
+  Name: RootNode
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 247b3c9f-ccbc-462e-ac7d-4d545208e665
+  Components:
+    []
+- !<SceneObject/b9ae9037-b992-4699-9307-6b3977ef7be4>
+  PrefabRemaps:
+    []
+  Name: Object_65
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 38.250114, y: 31.371138, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> ca4f96c3-2ff9-49ff-897c-7be37e113753
+  Components:
+    []
+- !<SceneObject/bab1bbd7-550b-46df-be16-b7ed4a4cd6fa>
+  PrefabRemaps:
+    []
+  Name: Object_77
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 38.250114, y: 31.371138, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> e673b615-630e-463d-85a9-7913a9ace06c
+  Components:
+    []
+- !<RenderMeshVisual/bb1d793c-73ab-4617-9f0a-ecbad01ca0d3>
+  PrefabRemaps:
+    []
+  Name: Arc012_01 - Default_0
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 50b33dda-44f0-4e0d-9e05-805d811d987b
+  Mesh: !<reference> e3e746d8-d82c-4b0a-a53d-bb7ae511af90
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/bc13526d-7f68-462a-a3dd-eff1f618a4a0>
+  PrefabRemaps:
+    []
+  Name: Arc007
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: -9.080873, y: 23.796745, z: -0.639557}
+    Rotation: {x: -0.000000, y: -0.000000, z: 60.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 120be6d8-b441-4b6c-b110-ac8ce3beedde
+  Components:
+    []
+- !<SceneObject/bc1e70af-18d1-47d3-95fc-8dcfabe1480e>
+  PrefabRemaps:
+    []
+  Name: Arc015
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.394253, y: -25.467466, z: -0.639557}
+    Rotation: {x: 0.000000, y: -0.000000, z: -140.000015}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 2130fa4b-416c-48a5-9556-5995254021dd
+  Components:
+    []
+- !<SceneObject/bc789b0b-6ee8-4bc6-9ceb-42037d69c32c>
+  PrefabRemaps:
+    []
+  Name: Arc004
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 16.068148, y: 19.762640, z: -0.639557}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> f46a5474-259e-4bc4-a3c9-1695adbf82a7
+  Components:
+    []
+- !<SceneObject/be16643c-5da5-40b3-bdde-58ad9327e26c>
+  PrefabRemaps:
+    []
+  Name: Object_62
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 38.250114, y: 31.371138, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> cb42a8d0-5b67-400d-bfe3-2614b06610f8
+  Components:
+    []
+- !<SceneObject/be521ce2-2c75-4982-8b5b-82d5c40aec92>
+  PrefabRemaps:
+    []
+  Name: Object_113
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 38.250114, y: 31.371138, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> cf6d013d-b65a-4154-89f9-096aeaf9d992
+  Components:
+    []
+- !<SceneObject/bfe3aac3-d1a2-4683-967f-bcb20dac5f53>
+  PrefabRemaps:
+    []
+  Name: Object_107
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 38.250114, y: 31.371138, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 77ff6376-7416-4e05-91d8-e0bebd60314a
+  Components:
+    []
+- !<SceneObject/c10b21d7-ffcd-4a78-b402-7bd53e1c0082>
+  PrefabRemaps:
+    []
+  Name: Arc038
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 25.012100, y: 4.810638, z: -0.639587}
+    Rotation: {x: 0.000000, y: 0.000000, z: -40.000042}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 60b4f056-d92e-443d-b4cb-39e217ff7909
+  Components:
+    []
+- !<SceneObject/c1595588-cafc-4243-a436-1d2805d12ea0>
+  PrefabRemaps:
+    []
+  Name: Object_52
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 38.250114, y: 31.371138, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 08660ce6-f360-404d-8297-52510dc6114b
+  Components:
+    []
+- !<RenderMeshVisual/c15dad1e-b890-4ad2-8e78-456f0bde662c>
+  PrefabRemaps:
+    []
+  Name: Arc039_02 - Default_0
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> e08d3bc3-51f3-46b2-8456-ae4a50ef45b0
+  Mesh: !<reference> 9314a6ce-7766-48d9-9bed-a6b5b4a63bcc
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/c2e5ebf8-b24f-4380-8fa2-6657be26fb7a>
+  PrefabRemaps:
+    []
+  Name: Arc017_01 - Default_0
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 5b056559-119d-423f-85cc-9bb521d7a010
+- !<SceneObject/c58427e3-c024-43ec-849f-0f9009f386fe>
+  PrefabRemaps:
+    []
+  Name: Object_104
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 38.250114, y: 31.371138, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> caee7f31-6cc1-4524-b2dc-627b070cdc05
+  Components:
+    []
+- !<RenderMeshVisual/c8825817-662c-4bf9-a71a-a81d37a6ec3f>
+  PrefabRemaps:
+    []
+  Name: Arc010_01 - Default_0
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 50b33dda-44f0-4e0d-9e05-805d811d987b
+  Mesh: !<reference> b0c3c4dc-b107-43be-b6d1-493a383c094c
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/ca4f96c3-2ff9-49ff-897c-7be37e113753>
+  PrefabRemaps:
+    []
+  Name: Arc023_02 - Default_0
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 89dd7b38-8184-4786-affb-59cb5c1210ab
+- !<SceneObject/caee7f31-6cc1-4524-b2dc-627b070cdc05>
+  PrefabRemaps:
+    []
+  Name: Arc036_02 - Default_0
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 508e6ec4-77df-47a5-b032-75d045b3216f
+- !<RenderMeshVisual/cafa5c4f-2a52-4f49-910d-fdcfc26b0188>
+  PrefabRemaps:
+    []
+  Name: Arc008_01 - Default_0
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 50b33dda-44f0-4e0d-9e05-805d811d987b
+  Mesh: !<reference> b08423fa-8040-47f5-9272-9fa0b1969350
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/cb42a8d0-5b67-400d-bfe3-2614b06610f8>
+  PrefabRemaps:
+    []
+  Name: Arc022_02 - Default_0
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 2718d9c3-8baa-4ec0-b24d-7ba5ada2dff1
+- !<SceneObject/cf6d013d-b65a-4154-89f9-096aeaf9d992>
+  PrefabRemaps:
+    []
+  Name: Arc039_02 - Default_0
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> c15dad1e-b890-4ad2-8e78-456f0bde662c
+- !<SceneObject/d0dd4a5f-4d85-408a-861e-3734a093982d>
+  PrefabRemaps:
+    []
+  Name: Arc007_01 - Default_0
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 515a059c-c166-4243-8ca4-372fd1054734
+- !<RenderMeshVisual/d100b983-b105-4820-b0a3-45f7605c3b9d>
+  PrefabRemaps:
+    []
+  Name: Arc028_02 - Default_0
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> e08d3bc3-51f3-46b2-8456-ae4a50ef45b0
+  Mesh: !<reference> dff432ee-c963-4d4a-9a51-32d8b0b01831
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/d4b4fb36-3348-44aa-b5f5-7682d326a080>
+  PrefabRemaps:
+    []
+  Name: Arc012
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: -21.858341, y: -13.075162, z: -0.639557}
+    Rotation: {x: 0.000000, y: 0.000000, z: 159.999985}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> b2d961c5-0c47-4cd9-8ad9-388286d56f6f
+  Components:
+    []
+- !<SceneObject/d57ec710-2ceb-4463-b687-d381ecb5f8b0>
+  PrefabRemaps:
+    []
+  Name: Arc010_01 - Default_0
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> c8825817-662c-4bf9-a71a-a81d37a6ec3f
+- !<SceneObject/d5bb69d4-5a20-4345-8f7a-dc4d42fa35de>
+  PrefabRemaps:
+    []
+  Name: Arc008
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: -16.672194, y: 19.255787, z: -0.639557}
+    Rotation: {x: -0.000000, y: -0.000000, z: 80.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 275c85fc-26ca-41f0-8455-1d2ce7ad9b53
+  Components:
+    []
+- !<SceneObject/d5df60a0-69b3-432f-876b-d9aed74e7532>
+  PrefabRemaps:
+    []
+  Name: Object_43
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 38.250114, y: 31.371136, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> c2e5ebf8-b24f-4380-8fa2-6657be26fb7a
+  Components:
+    []
+- !<SceneObject/d736b2c1-e265-4f5d-9fb6-dc1753e1d2ee>
+  PrefabRemaps:
+    []
+  Name: Arc021
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 21.858349, y: 13.075163, z: -0.639557}
+    Rotation: {x: 0.000000, y: -0.000000, z: -20.000042}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> d9e19a38-5195-49c8-ae55-46d3ee53d104
+  Components:
+    []
+- !<SceneObject/d7552184-dcd6-438b-b782-a7b25b19d5b9>
+  PrefabRemaps:
+    []
+  Name: Arc012_01 - Default_0
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> bb1d793c-73ab-4617-9f0a-ecbad01ca0d3
+- !<SceneObject/d9e19a38-5195-49c8-ae55-46d3ee53d104>
+  PrefabRemaps:
+    []
+  Name: Object_58
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 38.250114, y: 31.371138, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 5ddae662-75d7-40ad-93a0-5e0221a90537
+  Components:
+    []
+- !<SceneObject/dbae0a36-e5ed-4e48-92ed-7ebc12831617>
+  PrefabRemaps:
+    []
+  Name: Arc033_02 - Default_0
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> f9cad005-3496-47ac-8da7-31e4b58cf734
+- !<SceneObject/dd0ca3b7-506d-424f-8014-917b82835902>
+  PrefabRemaps:
+    []
+  Name: Arc015_01 - Default_0
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 03f9442c-090f-42d8-b03b-bfa52460aff5
+- !<SceneObject/de5d92d1-8542-4874-94a1-3d8fe9a15ec5>
+  PrefabRemaps:
+    []
+  Name: Arc011
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: -25.012094, y: -4.810640, z: -0.639557}
+    Rotation: {x: -0.000000, y: -0.000000, z: 139.999985}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 1784a137-1bff-42eb-a252-75f53fdcf7f2
+  Components:
+    []
+- !<SceneObject/e0c50b9b-1a11-445e-b85d-be8fc264a09c>
+  PrefabRemaps:
+    []
+  Name: Arc035
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 16.068148, y: 19.762640, z: -0.639587}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 52f197ea-961b-4a1c-be64-554501be6cc8
+  Components:
+    []
+- !<SceneObject/e121eb29-a980-4304-aee1-31e371e40f99>
+  PrefabRemaps:
+    []
+  Name: Object_16
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 38.250114, y: 31.371136, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 5fa4b54e-c8a4-4ecd-a303-74f1ca2be762
+  Components:
+    []
+- !<SceneObject/e3378615-49c4-4d46-9fd0-afb2f212bf46>
+  PrefabRemaps:
+    []
+  Name: Sketchfab_model
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: -90.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 0.017260, y: 0.017260, z: 0.017260}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 7ac272ba-1b21-426b-b31b-662e35181656
+  Components:
+    []
+- !<SceneObject/e673b615-630e-463d-85a9-7913a9ace06c>
+  PrefabRemaps:
+    []
+  Name: Arc027_02 - Default_0
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 6d4b9b5d-d148-46c6-854c-ddfff1cabc7c
+- !<SceneObject/e963e2f9-5e95-402a-82ed-ca3ad7c9d462>
+  PrefabRemaps:
+    []
+  Name: Arc024_02 - Default_0
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 64412e32-f695-4919-8dec-4183576418fb
+- !<SceneObject/eac25f93-9b98-4f26-938a-8b5fe8ccd5bd>
+  PrefabRemaps:
+    []
+  Name: Arc009_01 - Default_0
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 30c3fbd9-e0a0-4e40-b2c1-3451ab6c38ce
+- !<SceneObject/ec03184e-c4db-49b2-bfae-0833d3a31e26>
+  PrefabRemaps:
+    []
+  Name: Arc006
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: -0.394262, y: 25.467466, z: -0.639557}
+    Rotation: {x: -0.000000, y: -0.000000, z: 40.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> e121eb29-a980-4304-aee1-31e371e40f99
+  Components:
+    []
+- !<RenderMeshVisual/f07f3b09-4dd0-4c47-830b-a06544c2cd97>
+  PrefabRemaps:
+    []
+  Name: Arc006_01 - Default_0
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 50b33dda-44f0-4e0d-9e05-805d811d987b
+  Mesh: !<reference> fed4fb4a-fdfb-4e1b-8522-1d5d6903f45a
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/f4257ee0-a62e-4f6c-b8d1-256687f8a7b9>
+  PrefabRemaps:
+    []
+  Name: Arc013
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: -16.068155, y: -19.762629, z: -0.639557}
+    Rotation: {x: 0.000000, y: 0.000000, z: 179.999985}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 56bf5ebf-4e97-4bef-b87e-1713ec9e5d27
+  Components:
+    []
+- !<SceneObject/f46a5474-259e-4bc4-a3c9-1695adbf82a7>
+  PrefabRemaps:
+    []
+  Name: Object_46
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 38.250114, y: 31.371138, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 30b9efb2-3b97-4171-bced-779a3ee52531
+  Components:
+    []
+- !<SceneObject/f8f10206-6792-45cd-bfc3-eb7ba6f3bf2e>
+  PrefabRemaps:
+    []
+  Name: Arc019
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 25.149019, y: -4.034111, z: -0.639557}
+    Rotation: {x: 0.000000, y: -0.000000, z: -60.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> c1595588-cafc-4243-a436-1d2805d12ea0
+  Components:
+    []
+- !<SceneObject/f915e8e6-060b-445a-982c-a3d529d469c5>
+  PrefabRemaps:
+    []
+  Name: Arc025
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: -0.394262, y: 25.467468, z: -0.639587}
+    Rotation: {x: 0.000000, y: 0.000000, z: 40.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 43b41b0c-402d-40a0-823e-50aba07ce6cf
+  Components:
+    []
+- !<RenderMeshVisual/f9cad005-3496-47ac-8da7-31e4b58cf734>
+  PrefabRemaps:
+    []
+  Name: Arc033_02 - Default_0
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> e08d3bc3-51f3-46b2-8456-ae4a50ef45b0
+  Mesh: !<reference> d0a57834-e06c-468f-8231-42862382f1d8
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/fad8d1d5-da41-4554-901f-1681b7abac11>
+  PrefabRemaps:
+    []
+  Name: Object_31
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 38.250114, y: 31.371138, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> eac25f93-9b98-4f26-938a-8b5fe8ccd5bd
+  Components:
+    []
+- !<SceneObject/fbe3f2c0-4859-4510-aeb7-9b6d6029c9d0>
+  PrefabRemaps:
+    []
+  Name: Arc030
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: -22.252598, y: 12.392297, z: -0.639587}
+    Rotation: {x: -0.000000, y: 0.000000, z: 100.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 636eb1b7-17fe-471f-a61e-e9f51125a1c8
+  Components:
+    []
+- !<SceneObject/fd6b981c-6816-44b9-b4f3-ef04fff10b3c>
+  PrefabRemaps:
+    []
+  Name: Arc039
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 21.858349, y: 13.075159, z: -0.639587}
+    Rotation: {x: 0.000000, y: 0.000000, z: -20.000040}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> be521ce2-2c75-4982-8b5b-82d5c40aec92
+  Components:
+    []
+- !<SceneObject/fd8d8320-4e9a-4060-b02c-2a66429c5785>
+  PrefabRemaps:
+    []
+  Name: Arc025_02 - Default_0
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 38ac3b94-bd08-4313-9008-9cc6d30e2902

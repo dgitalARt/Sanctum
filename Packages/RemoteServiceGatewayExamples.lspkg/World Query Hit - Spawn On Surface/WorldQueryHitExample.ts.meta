@@ -1,0 +1,61 @@
+- !<AssetImportMetadata/1160b738-7c78-94d3-e35d-1033e4e47f58>
+  ImportedAssetIds:
+    TypeScriptAsset: !<reference> 4af91f0b-dfd5-4e60-9ae1-e13c6ac3c8f7
+  ImporterName: TypeScriptAssetImporter
+  PrimaryAsset: !<reference> 4af91f0b-dfd5-4e60-9ae1-e13c6ac3c8f7
+  PackageType: NotAPackage
+  PackagePolicy: CannotBeUnpacked
+  ExtraData:
+    {}
+  AssetDataMap:
+    TypeScriptAsset: !<own> 7c22d378-8820-4894-85b8-1b5f42c71395
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<TypeScriptAssetData/7c22d378-8820-4894-85b8-1b5f42c71395>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 2f53a112-f9aa-43cb-96be-5064063bb956
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  CurrentVisibility: Editable
+  MaxVisibility: Editable
+  ScriptInputsHidden:
+    filterEnabled: false
+    hitIndicator: false
+    maxScale: false
+    minScale: false
+    objectPreviews: false
+    objectsToSpawn: false
+    scaleSlider: false
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  DefaultScriptInputs:
+    - hitIndicator: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      objectsToSpawn: !<reference.SceneObject[]>
+        []
+      objectPreviews: !<reference.SceneObject[]>
+        []
+      filterEnabled: false
+      scaleSlider: !<MappingBased.AssignableType> 00000000-0000-0000-0000-000000000000
+      minScale: !<float> 1.000000
+      maxScale: !<float> 10.000000
+  ScriptTypes:
+    -
+      {}
+  InputLines:
+    - // @input SceneObject hitIndicator
+    - "// @input SceneObject[] objectsToSpawn"
+    - "// @input SceneObject[] objectPreviews"
+    - // @input bool filterEnabled
+    - // @input AssignableType scaleSlider
+    - // @input float minScale = 1
+    - // @input float maxScale = 15

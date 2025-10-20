@@ -1,0 +1,57 @@
+studioVersion:
+  major: 5
+  minor: 12
+  patch: 0
+  build: 25072306
+  type: Public
+coreVersion: 321
+clientVersion: 13.500000
+updateCheckpoint: 68
+sceneId: 0a1ccb1a-fe88-4fbb-9883-e3af3c75fd99
+viewConfig:
+  simulation:
+    device: No Simulation
+    cameraFov: 66.519997
+    fullFrameAspect: nan
+    resolutionScale: 1.000000
+    viewport: Normal
+    output: Live
+    stereoOutputEye: Center
+    deviceTypeOverride: Spectacles
+    tint: true
+    screenshot: false
+    videoScreenRecord: false
+  cameraType: Front
+metaInfo:
+  hints:
+    []
+  tags:
+    []
+  lensName: Sanctune
+  lensDescriptors:
+    - EXPERIMENTAL_API
+  lensApplicability:
+    - Front
+    - Back
+  lensClientCompatibilities:
+    - Spectacles
+  platformBundlesEnabled: false
+  iconHash: 4c4a7805233b457ac4e14e3b1c9a0ad5
+  videoPreviewHash: ""
+  fromTemplateName: Spectacles
+  fromTemplateUrl: Lens Studio 5.1.1.24092500
+  activationCamera: Front
+  sourceMapEnabled: false
+  usingMinClientVersions: false
+  androidMinClientVersion:
+    major: 0
+    minor: 0
+    patch: 0
+    build: 0
+  iOSMinClientVersion:
+    major: 0
+    minor: 0
+    patch: 0
+    build: 0
+  documentId: d828eb49-192c-4e83-bab3-a8a9c30a51d7
+  originalDocumentId: ec571dce-e54f-4930-8497-a8286098a5c4

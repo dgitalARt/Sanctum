@@ -1,0 +1,56 @@
+- !<AssetImportMetadata/3d5519a0-c944-7e23-ce68-e84748c95783>
+  ImportedAssetIds:
+    TypeScriptAsset: !<reference> 820e3092-466e-4188-a8a9-f6dce2159f47
+  ImporterName: TypeScriptAssetImporter
+  PrimaryAsset: !<reference> 820e3092-466e-4188-a8a9-f6dce2159f47
+  PackageType: NotAPackage
+  PackagePolicy: CannotBeUnpacked
+  ExtraData:
+    {}
+  AssetDataMap:
+    TypeScriptAsset: !<own> 9e87baef-f2ad-40e5-a095-af192921d7e1
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<TypeScriptAssetData/9e87baef-f2ad-40e5-a095-af192921d7e1>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 9a2ce527-1fec-40b9-b48c-5b2ca1e669fa
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  CurrentVisibility: Editable
+  MaxVisibility: Editable
+  ScriptInputsHidden:
+    _hoverAudioTrack: false
+    _playAudioOnHover: false
+    _playAudioOnTriggerEnd: false
+    _playAudioOnTriggerStart: false
+    _triggerEndAudioTrack: false
+    _triggerStartAudioTrack: false
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  DefaultScriptInputs:
+    - _playAudioOnHover: false
+      _hoverAudioTrack: !<reference.AudioTrackAsset> 7ad6b877-bd90-4c3c-8ced-52ec59278402
+      _playAudioOnTriggerStart: true
+      _triggerStartAudioTrack: !<reference.AudioTrackAsset> 2c315daf-f7e5-4eb5-99e1-ec10798a9eb1
+      _playAudioOnTriggerEnd: true
+      _triggerEndAudioTrack: !<reference.AudioTrackAsset> f5e59ff3-0479-4370-b15b-a50da78c15af
+  ScriptTypes:
+    -
+      {}
+  InputLines:
+    - "// @input bool _playAudioOnHover = true {\"hint\":\"Controls whether sound feedback plays when a user's hand hovers over this Interactable.\"}"
+    - '// @input Asset.AudioTrackAsset _hoverAudioTrack {"hint":"The sound that plays when the Interactable is hovered.", "showIf":"_playAudioOnHover", "showIfValue":true}'
+    - '// @input bool _playAudioOnTriggerStart = true {"hint":"Controls whether sound feedback plays when a user starts interacting with this Interactable."}'
+    - '// @input Asset.AudioTrackAsset _triggerStartAudioTrack {"hint":"The sound that plays when interaction with this Interactable begins.", "showIf":"_playAudioOnTriggerStart", "showIfValue":true}'
+    - '// @input bool _playAudioOnTriggerEnd = true {"hint":"Controls whether sound feedback plays when a user stops interacting with this Interactable."}'
+    - '// @input Asset.AudioTrackAsset _triggerEndAudioTrack {"hint":"The sound that plays when interaction with this Interactable ends.", "showIf":"_playAudioOnTriggerEnd", "showIfValue":true}'

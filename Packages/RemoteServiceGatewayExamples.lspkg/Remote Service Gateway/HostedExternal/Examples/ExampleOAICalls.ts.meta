@@ -1,0 +1,80 @@
+- !<AssetImportMetadata/7b8e0bcf-6586-4429-87e1-c0468b7c95b4>
+  ImportedAssetIds:
+    TypeScriptAsset: !<reference> e148762d-e36a-44fc-b851-47658c6e3a80
+  ImporterName: TypeScriptAssetImporter
+  PrimaryAsset: !<reference> e148762d-e36a-44fc-b851-47658c6e3a80
+  PackageType: NotAPackage
+  PackagePolicy: CannotBeUnpacked
+  ExtraData:
+    {}
+  AssetDataMap:
+    TypeScriptAsset: !<own> 153e3ac9-1f35-4028-9940-924466b4c92c
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<TypeScriptAssetData/153e3ac9-1f35-4028-9940-924466b4c92c>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 3f4190e1-5ec6-40d4-9ef0-37a1de5f337e
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  CurrentVisibility: Editable
+  MaxVisibility: Editable
+  ScriptInputsHidden:
+    alternateSceneObject: false
+    autoSpatialize: false
+    interactableObject: false
+    spatialGallery: false
+    spatializeButton: false
+    startPracticeOnTap: false
+    textOutput: false
+    toggleViewButton: false
+    voiceInstructions: false
+    zenSpaceImage: false
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  DefaultScriptInputs:
+    - textOutput: !<reference.Text> 00000000-0000-0000-0000-000000000000
+      startPracticeOnTap: false
+      zenSpaceImage: !<reference.Image> 00000000-0000-0000-0000-000000000000
+      spatialGallery: !<reference.ScriptComponent> 00000000-0000-0000-0000-000000000000
+      voiceInstructions: "Calm, soothing, gentle zen meditation voice. Speak slowly with peaceful pauses."
+      interactableObject: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      spatializeButton: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      toggleViewButton: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      alternateSceneObject: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      autoSpatialize: false
+  ScriptTypes:
+    -
+      {}
+  InputLines:
+    - '// @ui {"widget":"separator"}'
+    - '// @ui {"widget":"group_start", "label":"Breathing Practice"}'
+    - // @input Component.Text textOutput
+    - '// @input bool startPracticeOnTap {"label":"Run On Tap"}'
+    - '// @ui {"widget":"group_end"}'
+    - '// @ui {"widget":"separator"}'
+    - '// @ui {"widget":"group_start", "label":"Visual Calm Space"}'
+    - // @input Component.Image zenSpaceImage
+    - // @input Component.ScriptComponent spatialGallery
+    - '// @ui {"widget":"group_end"}'
+    - '// @ui {"widget":"separator"}'
+    - '// @ui {"widget":"group_start", "label":"Voice Settings"}'
+    - '// @input string voiceInstructions = "Wise zen master or therapist tone. Calm, grounding, deeply peaceful voice. Speak slowly with intentional pauses between phrases." {"widget":"text_area"}'
+    - '// @ui {"widget":"group_end"}'
+    - '// @ui {"widget":"separator"}'
+    - '// @ui {"widget":"group_start", "label":"Interaction"}'
+    - // @input SceneObject interactableObject
+    - // @input SceneObject spatializeButton
+    - // @input SceneObject toggleViewButton
+    - // @input SceneObject alternateSceneObject
+    - '// @input bool autoSpatialize {"label":"Auto-spatialize Image"}'
+    - '// @ui {"widget":"group_end"}'

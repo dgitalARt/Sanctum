@@ -1,0 +1,172 @@
+- !<Material/ccc03edb-8d5b-45c3-8e87-a8caed37502c>
+  PackagePath: ""
+  PassesInfo:
+    - !<own> c725c5f7-2423-4919-b789-ab6dd820797b
+    - !<own> dfa6637e-fd72-44b7-9f4a-f6c4ae450581
+- !<PassInfo/c725c5f7-2423-4919-b789-ab6dd820797b>
+  CachedProperties:
+    - overrideTimeDelta:
+        typeIdx: 1
+        value: 0.000000
+    - overrideTimeElapsed:
+        typeIdx: 1
+        value: 0.000000
+    - overrideTimeEnabled:
+        typeIdx: 0
+        value: 0
+  DepthWrite: true
+  DepthTest: true
+  DepthFunction: LessEqual
+  TwoSided: false
+  ColorMask: {x: true, y: true, z: true, w: true}
+  CullMode: Back
+  PolygonOffset: {x: 0.000000, y: 0.000000}
+  FrustumCulling: Auto
+  FrustumCullPad: 0.000000
+  InstanceCount: 1
+  Defines:
+    - animated
+  BlendMode: Add
+  Properties:
+    Port_AO_N006:
+      typeIdx: 4
+      value: {x: 1.000000, y: 1.000000, z: 1.000000}
+    Port_Albedo_N006:
+      typeIdx: 4
+      value: {x: 0.969329, y: 0.422751, z: 0.215106}
+    Port_Emissive_N006:
+      typeIdx: 4
+      value: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Port_Import_N037:
+      typeIdx: 1
+      value: 0.000000
+    Port_Import_N046:
+      typeIdx: 1
+      value: 0.200000
+    Port_Import_N054:
+      typeIdx: 1
+      value: 20.000000
+    Port_Input1_N038:
+      typeIdx: 1
+      value: 0.000000
+    Port_Input2_N038:
+      typeIdx: 1
+      value: 1.000000
+    Port_Metallic_N006:
+      typeIdx: 1
+      value: 0.000000
+    Port_Opacity_N006:
+      typeIdx: 1
+      value: 1.000000
+    Port_Roughness_N006:
+      typeIdx: 1
+      value: 0.000000
+    Port_Scale_N017:
+      typeIdx: 3
+      value: {x: 1.000000, y: 1.000000}
+    Port_SpecularAO_N006:
+      typeIdx: 4
+      value: {x: 1.000000, y: 1.000000, z: 1.000000}
+    PreviewEnabled:
+      typeIdx: 0
+      value: 0
+    animatedSpeed:
+      typeIdx: 1
+      value: 2.920000
+    noiseScale:
+      typeIdx: 1
+      value: 0.980000
+    offset:
+      typeIdx: 1
+      value: 1.370000
+    strength:
+      typeIdx: 1
+      value: 0.280000
+  Pass: !<reference> 4904d2c8-db24-4156-bfca-5923c50db51f
+- !<PassInfo/dfa6637e-fd72-44b7-9f4a-f6c4ae450581>
+  CachedProperties:
+    - materialParamsTexBorderColor:
+        typeIdx: 5
+        value: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+    - materialParamsTexDims:
+        typeIdx: 5
+        value: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+    - materialParamsTexTransform:
+        typeIdx: 7
+        value:
+          0: {x: 1.000000, y: 0.000000, z: 0.000000}
+          1: {x: 0.000000, y: 1.000000, z: 0.000000}
+          2: {x: 0.000000, y: 0.000000, z: 1.000000}
+    - materialParamsTexUvMinMax:
+        typeIdx: 5
+        value: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+    - overrideTimeDelta:
+        typeIdx: 1
+        value: 0.000000
+    - overrideTimeElapsed:
+        typeIdx: 1
+        value: 0.000000
+    - overrideTimeEnabled:
+        typeIdx: 0
+        value: 0
+  DepthWrite: true
+  DepthTest: true
+  DepthFunction: LessEqual
+  TwoSided: false
+  ColorMask: {x: true, y: true, z: true, w: true}
+  CullMode: Back
+  PolygonOffset: {x: 0.000000, y: 0.000000}
+  FrustumCulling: Auto
+  FrustumCullPad: 0.000000
+  InstanceCount: 1
+  Defines:
+    - NODE_13_DROPLIST_ITEM 0
+    - NODE_181_DROPLIST_ITEM 0
+    - NODE_184_DROPLIST_ITEM 0
+    - NODE_221_DROPLIST_ITEM 0
+    - NODE_228_DROPLIST_ITEM 0
+    - NODE_27_DROPLIST_ITEM 0
+    - NODE_315_DROPLIST_ITEM 0
+    - NODE_38_DROPLIST_ITEM 0
+    - NODE_49_DROPLIST_ITEM 0
+    - NODE_69_DROPLIST_ITEM 0
+    - NODE_76_DROPLIST_ITEM 0
+  BlendMode: Disabled
+  Properties:
+    PreviewEnabled:
+      typeIdx: 0
+      value: 0
+    baseColor:
+      typeIdx: 5
+      value: {x: 1.000000, y: 0.164157, z: 0.015167, w: 1.000000}
+    materialParamsTex:
+      typeIdx: 9
+      value:
+        id: db07de3a-9c9b-4c52-b24d-396abfe566b7
+        sampler:
+          filteringMode: Trilinear
+          wrapModeU: Repeat
+          wrapModeV: Repeat
+          wrapModeW: Repeat
+          borderColor: {x: 0.000000, y: 0.000000, z: 0.000000, w: 0.000000}
+          mipmaps: false
+        type: Texture2D
+    metallic:
+      typeIdx: 1
+      value: 1.000000
+    roughness:
+      typeIdx: 1
+      value: 0.930000
+    uv2Offset:
+      typeIdx: 3
+      value: {x: 1.000000, y: 1.000000}
+    uv2Scale:
+      typeIdx: 3
+      value: {x: 1.000000, y: 1.000000}
+    uv3Offset:
+      typeIdx: 3
+      value: {x: 1.000000, y: 1.000000}
+    uv3Scale:
+      typeIdx: 3
+      value: {x: 1.000000, y: 1.000000}
+  Pass: !<reference> aa4be7f0-31d8-4256-b057-0c698c7c6cd8
