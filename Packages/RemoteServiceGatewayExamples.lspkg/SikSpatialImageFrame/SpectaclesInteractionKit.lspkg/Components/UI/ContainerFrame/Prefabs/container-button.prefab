@@ -6,7 +6,9 @@
   RetainAssets: true
 - !<SceneObject/45dc00da-1d5c-4616-b6a5-92338428459f>
   PrefabRemaps:
-    []
+    - 45dc00da-1d5c-4616-b6a5-92338428459f: 45dc00da-1d5c-4616-495a-6dcc7bd7ba60
+    - beba8576-3bc1-4f57-a95f-ee493c7aa5b3: beba8576-3bc1-4f57-56a0-11b6c3855a4c
+    - eb7b02dc-4b61-4a98-adc9-9e8c7859bf9e: eb7b02dc-4b61-4a98-5236-617387a64061
   Name: container-button
   Enabled: true
   Layers: 1

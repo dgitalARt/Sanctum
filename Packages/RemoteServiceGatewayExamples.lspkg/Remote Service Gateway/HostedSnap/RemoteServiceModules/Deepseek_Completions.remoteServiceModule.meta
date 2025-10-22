@@ -4,7 +4,7 @@
   ImporterName: RemoteServiceModuleImporter
   PrimaryAsset: !<reference> d808e070-71e8-494f-9c1b-dcda42dd7c8b
   PackageType: NotAPackage
-  PackagePolicy: CannotBeUnpacked
+  LegacyPackagePolicy: ~
   ExtraData:
     {}
   AssetDataMap:

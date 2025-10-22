@@ -4,7 +4,7 @@
   ImporterName: ScreenTextureImporter
   PrimaryAsset: !<reference> 9506279e-09ea-4489-ad84-1ba9df88794e
   PackageType: NotAPackage
-  PackagePolicy: CannotBeUnpacked
+  LegacyPackagePolicy: ~
   ExtraData:
     AssetLibraryId: 5oI2wHsDcLWrh5Nor2pMj5
   AssetDataMap:

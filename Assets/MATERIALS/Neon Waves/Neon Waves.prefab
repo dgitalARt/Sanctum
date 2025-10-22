@@ -56,7 +56,11 @@
     - !<own> 0fd87757-4d60-4125-8eae-17381794e8f2
 - !<SceneObject/ad33ec41-69ac-465c-b383-bb06004ca9ba>
   PrefabRemaps:
-    []
+    - 01338295-dfa1-41c1-90ac-c3cde8dcec1e: 01338295-dfa1-41c1-6f53-3c32172313e1
+    - 0fd87757-4d60-4125-8eae-17381794e8f2: 0fd87757-4d60-4125-7151-e8c7e86b170d
+    - 12ffc87d-4a51-40f2-83bf-b6c33fc5f772: 12ffc87d-4a51-40f2-7c40-493cc03a088d
+    - ad33ec41-69ac-465c-b383-bb06004ca9ba: ad33ec41-69ac-465c-4c7c-44f9ffb35645
+    - ee2653e5-cf88-4ce5-8942-4200b4277040: ee2653e5-cf88-4ce5-76bd-bdff4bd88fbf
   Name: Neon Waves Material
   Enabled: true
   Layers: 1

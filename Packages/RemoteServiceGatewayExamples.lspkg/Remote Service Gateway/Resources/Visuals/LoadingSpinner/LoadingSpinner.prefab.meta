@@ -4,7 +4,7 @@
   ImporterName: ObjectPrefabImporter
   PrimaryAsset: !<reference> fd45fbe2-6e58-459a-8ac2-7414c69b537a
   PackageType: NotAPackage
-  PackagePolicy: CannotBeUnpacked
+  LegacyPackagePolicy: ~
   ExtraData:
     {}
   AssetDataMap:
@@ -14,28 +14,7 @@
   ImporterSettings: !<AssetImporterSettings>
     {}
   CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
-- !<ObjectPrefab/038365a4-3407-47ee-8e4d-15519495288a>
-  PackagePath: ""
-  objects:
-    - !<own> 3e952f7d-5c40-4f5d-ad52-fec6b5ae160a
-  LazyLoading: false
-  RetainAssets: true
-- !<SceneObject/3e952f7d-5c40-4f5d-ad52-fec6b5ae160a>
-  PrefabRemaps:
-    []
-  Name: LoadingSpinner
-  Enabled: true
-  Layers: 1
-  LocalTransform: !<TransformEntity>
-    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
-    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
-    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
-    HasSegmentScaleCompensation: false
-  Children:
-    []
-  Components:
-    - !<own> 7a51eaa2-c3aa-4d35-a693-fdab792470cb
-- !<ScriptComponent/7a51eaa2-c3aa-4d35-a693-fdab792470cb>
+- !<ScriptComponent/a4694ed5-db77-433d-53ee-6978688d0eee>
   PrefabRemaps:
     []
   Name: LoadingSpinner
@@ -52,8 +31,22 @@
     "":
       {}
 - !<ObjectPrefabAssetData/f47c4f65-f3ab-42a4-aa5a-15237e5cbbfa>
-  SourceRemaps:
-    - a4694ed5-db77-433d-ac11-96879772f111: 7a51eaa2-c3aa-4d35-a693-fdab792470cb
-    - f854bb32-1159-4733-903c-ebecc14ab8d2: 3e952f7d-5c40-4f5d-ad52-fec6b5ae160a
-    - fd45fbe2-6e58-459a-8ac2-7414c69b537a: 038365a4-3407-47ee-8e4d-15519495288a
-  SourceState: !<own> 038365a4-3407-47ee-8e4d-15519495288a
+  Prototype: !<ObjectOwner/88fbd726-c342-4694-a897-ee6a9a1bcfeb>
+    PackagePath: ""
+    objects:
+      - !<own> f854bb32-1159-4733-6fc3-14133eb5472d
+- !<SceneObject/f854bb32-1159-4733-6fc3-14133eb5472d>
+  PrefabRemaps:
+    []
+  Name: LoadingSpinner
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> a4694ed5-db77-433d-53ee-6978688d0eee

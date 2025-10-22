@@ -4,7 +4,7 @@
   ImporterName: RenderTargetImporter
   PrimaryAsset: !<reference> 047bdc7a-c3d2-4e2a-8a65-ddaef82b40d7
   PackageType: NotAPackage
-  PackagePolicy: CannotBeUnpacked
+  LegacyPackagePolicy: ~
   ExtraData:
     AssetLibraryId: 5oI2wHsDcLWrh5Nor2pMj5
   AssetDataMap:

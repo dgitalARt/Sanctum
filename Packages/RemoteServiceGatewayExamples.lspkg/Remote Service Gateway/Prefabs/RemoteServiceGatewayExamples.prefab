@@ -127,15 +127,18 @@
     Mode: Solid
     Color: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
     Texture: !<reference> 00000000-0000-0000-0000-000000000000
+    ColorTint: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
     TileCount: 5.000000
     TileZone: Rect
     TextureStretch: FitWidth
+  BlendMode: PremultipliedAlpha
   Outline: !<OutlineSettings>
     Enabled: false
     Fill: !<TextFill>
       Mode: Solid
       Color: {x: 0.000000, y: 0.000000, z: 0.000000, w: 1.000000}
       Texture: !<reference> 00000000-0000-0000-0000-000000000000
+      ColorTint: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
       TileCount: 5.000000
       TileZone: Rect
       TextureStretch: FitWidth
@@ -146,6 +149,7 @@
       Mode: Solid
       Color: {x: 0.000000, y: 0.000000, z: 0.000000, w: 1.000000}
       Texture: !<reference> 00000000-0000-0000-0000-000000000000
+      ColorTint: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
       TileCount: 5.000000
       TileZone: Rect
       TextureStretch: FitWidth
@@ -157,6 +161,7 @@
       Mode: Solid
       Color: {x: 0.000000, y: 0.000000, z: 0.000000, w: 1.000000}
       Texture: !<reference> 00000000-0000-0000-0000-000000000000
+      ColorTint: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
       TileCount: 5.000000
       TileZone: Rect
       TextureStretch: FitWidth
@@ -294,15 +299,18 @@
     Mode: Solid
     Color: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
     Texture: !<reference> 00000000-0000-0000-0000-000000000000
+    ColorTint: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
     TileCount: 5.000000
     TileZone: Rect
     TextureStretch: FitWidth
+  BlendMode: PremultipliedAlpha
   Outline: !<OutlineSettings>
     Enabled: false
     Fill: !<TextFill>
       Mode: Solid
       Color: {x: 0.000000, y: 0.000000, z: 0.000000, w: 1.000000}
       Texture: !<reference> 00000000-0000-0000-0000-000000000000
+      ColorTint: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
       TileCount: 5.000000
       TileZone: Rect
       TextureStretch: FitWidth
@@ -313,6 +321,7 @@
       Mode: Solid
       Color: {x: 0.000000, y: 0.000000, z: 0.000000, w: 1.000000}
       Texture: !<reference> 00000000-0000-0000-0000-000000000000
+      ColorTint: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
       TileCount: 5.000000
       TileZone: Rect
       TextureStretch: FitWidth
@@ -324,6 +333,7 @@
       Mode: Solid
       Color: {x: 0.000000, y: 0.000000, z: 0.000000, w: 1.000000}
       Texture: !<reference> 00000000-0000-0000-0000-000000000000
+      ColorTint: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
       TileCount: 5.000000
       TileZone: Rect
       TextureStretch: FitWidth
@@ -372,15 +382,18 @@
     Mode: Solid
     Color: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
     Texture: !<reference> 00000000-0000-0000-0000-000000000000
+    ColorTint: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
     TileCount: 5.000000
     TileZone: Rect
     TextureStretch: FitWidth
+  BlendMode: PremultipliedAlpha
   Outline: !<OutlineSettings>
     Enabled: false
     Fill: !<TextFill>
       Mode: Solid
       Color: {x: 0.000000, y: 0.000000, z: 0.000000, w: 1.000000}
       Texture: !<reference> 00000000-0000-0000-0000-000000000000
+      ColorTint: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
       TileCount: 5.000000
       TileZone: Rect
       TextureStretch: FitWidth
@@ -391,6 +404,7 @@
       Mode: Solid
       Color: {x: 0.000000, y: 0.000000, z: 0.000000, w: 1.000000}
       Texture: !<reference> 00000000-0000-0000-0000-000000000000
+      ColorTint: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
       TileCount: 5.000000
       TileZone: Rect
       TextureStretch: FitWidth
@@ -402,6 +416,7 @@
       Mode: Solid
       Color: {x: 0.000000, y: 0.000000, z: 0.000000, w: 1.000000}
       Texture: !<reference> 00000000-0000-0000-0000-000000000000
+      ColorTint: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
       TileCount: 5.000000
       TileZone: Rect
       TextureStretch: FitWidth
@@ -498,15 +513,18 @@
     Mode: Solid
     Color: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
     Texture: !<reference> 00000000-0000-0000-0000-000000000000
+    ColorTint: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
     TileCount: 5.000000
     TileZone: Rect
     TextureStretch: FitWidth
+  BlendMode: PremultipliedAlpha
   Outline: !<OutlineSettings>
     Enabled: false
     Fill: !<TextFill>
       Mode: Solid
       Color: {x: 0.000000, y: 0.000000, z: 0.000000, w: 1.000000}
       Texture: !<reference> 00000000-0000-0000-0000-000000000000
+      ColorTint: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
       TileCount: 5.000000
       TileZone: Rect
       TextureStretch: FitWidth
@@ -517,6 +535,7 @@
       Mode: Solid
       Color: {x: 0.000000, y: 0.000000, z: 0.000000, w: 1.000000}
       Texture: !<reference> 00000000-0000-0000-0000-000000000000
+      ColorTint: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
       TileCount: 5.000000
       TileZone: Rect
       TextureStretch: FitWidth
@@ -528,6 +547,7 @@
       Mode: Solid
       Color: {x: 0.304662, y: 0.304662, z: 0.304662, w: 1.000000}
       Texture: !<reference> 00000000-0000-0000-0000-000000000000
+      ColorTint: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
       TileCount: 5.000000
       TileZone: Rect
       TextureStretch: FitWidth
@@ -590,15 +610,18 @@
     Mode: Solid
     Color: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
     Texture: !<reference> 00000000-0000-0000-0000-000000000000
+    ColorTint: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
     TileCount: 5.000000
     TileZone: Rect
     TextureStretch: FitWidth
+  BlendMode: PremultipliedAlpha
   Outline: !<OutlineSettings>
     Enabled: false
     Fill: !<TextFill>
       Mode: Solid
       Color: {x: 0.000000, y: 0.000000, z: 0.000000, w: 1.000000}
       Texture: !<reference> 00000000-0000-0000-0000-000000000000
+      ColorTint: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
       TileCount: 5.000000
       TileZone: Rect
       TextureStretch: FitWidth
@@ -609,6 +632,7 @@
       Mode: Solid
       Color: {x: 0.000000, y: 0.000000, z: 0.000000, w: 1.000000}
       Texture: !<reference> 00000000-0000-0000-0000-000000000000
+      ColorTint: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
       TileCount: 5.000000
       TileZone: Rect
       TextureStretch: FitWidth
@@ -620,6 +644,7 @@
       Mode: Solid
       Color: {x: 0.304662, y: 0.304662, z: 0.304662, w: 1.000000}
       Texture: !<reference> 00000000-0000-0000-0000-000000000000
+      ColorTint: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
       TileCount: 5.000000
       TileZone: Rect
       TextureStretch: FitWidth
@@ -638,7 +663,79 @@
   TwoSided: false
 - !<SceneObject/3f9d4816-e1e2-4dec-8572-a7569b1f5bbe>
   PrefabRemaps:
-    []
+    - 005484f3-bc41-4f6d-a790-6e111b63c83a: 005484f3-bc41-4f6d-586f-91eee49c37c5
+    - 04a7da74-e9c7-4bc3-b36c-5a9be4e2f710: 04a7da74-e9c7-4bc3-4c93-a5641b1d08ef
+    - 059f7e9e-54ad-4702-81f2-21a22146de70: 059f7e9e-54ad-4702-7e0d-de5ddeb9218f
+    - 08e2158b-02d6-4f94-a687-6507f5b640cc: 08e2158b-02d6-4f94-5978-9af80a49bf33
+    - 09df580e-ccf7-4f46-9742-e0f47f605fd8: 09df580e-ccf7-4f46-68bd-1f0b809fa027
+    - 0bfec8bd-5010-4ef6-b132-d44dc83ab475: 0bfec8bd-5010-4ef6-4ecd-2bb237c54b8a
+    - 115d0bfd-1b30-4610-bad7-d39cea476012: 115d0bfd-1b30-4610-4528-2c6315b89fed
+    - 15326a02-adf2-43c8-920f-72831391646e: 15326a02-adf2-43c8-6df0-8d7cec6e9b91
+    - 1ccae9f3-cfb1-4fca-965d-613bdfb790b5: 1ccae9f3-cfb1-4fca-69a2-9ec420486f4a
+    - 1d2fa0c6-4889-45b3-a5f3-aa28cee6e40f: 1d2fa0c6-4889-45b3-5a0c-55d731191bf0
+    - 1de36524-2ce9-4325-99a0-3ffaedf9d15a: 1de36524-2ce9-4325-665f-c00512062ea5
+    - 1f261436-b300-4217-b25b-f2023ca41aab: 1f261436-b300-4217-4da4-0dfdc35be554
+    - 2454ed3f-36f1-48a1-85ac-d77463d2c576: 2454ed3f-36f1-48a1-7a53-288b9c2d3a89
+    - 259e6f26-2ddb-4cd1-95a8-4ded9bfe8c8d: 259e6f26-2ddb-4cd1-6a57-b21264017372
+    - 26dc67d2-f9f9-449a-80ce-a4ee696f97f2: 26dc67d2-f9f9-449a-7f31-5b119690680d
+    - 2c70124e-b118-4756-bc35-243867a7fa26: 2c70124e-b118-4756-43ca-dbc7985805d9
+    - 32a9bac2-cccb-49c0-8dae-6aae5ccd7026: 32a9bac2-cccb-49c0-7251-9551a3328fd9
+    - 341dac54-4f59-4b98-8639-f362f9bc9311: 341dac54-4f59-4b98-79c6-0c9d06436cee
+    - 3842bb12-04f4-4358-b096-da66a7a5cbc2: 3842bb12-04f4-4358-4f69-2599585a343d
+    - 3c119545-6771-4ecf-b9ff-82b264eb4016: 3c119545-6771-4ecf-4600-7d4d9b14bfe9
+    - 3f9d4816-e1e2-4dec-8572-a7569b1f5bbe: 3f9d4816-e1e2-4dec-7a8d-58a964e0a441
+    - 40ee46ac-6510-40a2-966d-db839fd0703f: 40ee46ac-6510-40a2-6992-247c602f8fc0
+    - 41d13738-35b0-4d61-ab87-661f6cccf4c4: 41d13738-35b0-4d61-5478-99e093330b3b
+    - 4484ca31-9fb8-4a24-affd-60beb0ce36b4: 4484ca31-9fb8-4a24-5002-9f414f31c94b
+    - 45b73c57-f8f9-470e-bab3-9392b08b9d0f: 45b73c57-f8f9-470e-454c-6c6d4f7462f0
+    - 474c98d1-6f2e-48ad-a2c9-a7a2bb6f9655: 474c98d1-6f2e-48ad-5d36-585d449069aa
+    - 47caf807-5ecb-4c47-833b-65f8b9ded883: 47caf807-5ecb-4c47-7cc4-9a074621277c
+    - 56c4409e-482d-43ea-a75d-fa9d54e1d630: 56c4409e-482d-43ea-58a2-0562ab1e29cf
+    - 58ae543a-2fa4-4412-aa8c-731d865dbf95: 58ae543a-2fa4-4412-5573-8ce279a2406a
+    - 593f0f5f-d34b-4d02-92f7-c0d1d2ba2264: 593f0f5f-d34b-4d02-6d08-3f2e2d45dd9b
+    - 5c8d2eb5-a059-4976-9b5e-347dd2d5fb44: 5c8d2eb5-a059-4976-64a1-cb822d2a04bb
+    - 5ec541db-bf13-441a-842a-9a37b665ef79: 5ec541db-bf13-441a-7bd5-65c8499a1086
+    - 6151ef97-3e43-42fe-9a88-dc97be0572ac: 6151ef97-3e43-42fe-6577-236841fa8d53
+    - 66d838a0-e6b9-4d53-b874-fafacf7c8d54: 66d838a0-e6b9-4d53-478b-0505308372ab
+    - 6af342af-4193-4188-b5f3-1fe85df9b11f: 6af342af-4193-4188-4a0c-e017a2064ee0
+    - 6decb31e-1139-49e7-9b2c-6a78673b417b: 6decb31e-1139-49e7-64d3-958798c4be84
+    - 6e9ee2bf-03b3-4065-8677-76085857aecc: 6e9ee2bf-03b3-4065-7988-89f7a7a85133
+    - 71efe00e-0651-4868-afeb-004dfc4b12c6: 71efe00e-0651-4868-5014-ffb203b4ed39
+    - 75b3a26d-ef53-4893-b318-568f7b80e11a: 75b3a26d-ef53-4893-4ce7-a970847f1ee5
+    - 7963d4d3-92a0-41ee-afd4-7623690f0873: 7963d4d3-92a0-41ee-502b-89dc96f0f78c
+    - 7ddf99f7-50b7-4bd3-b663-a4b8fa0cfccd: 7ddf99f7-50b7-4bd3-499c-5b4705f30332
+    - 88c71d0b-fb72-46e1-a39a-9734c9afc1c8: 88c71d0b-fb72-46e1-5c65-68cb36503e37
+    - 9c2af7fa-aab3-402e-a905-01c4dc2ad348: 9c2af7fa-aab3-402e-56fa-fe3b23d52cb7
+    - 9de9ec2e-add5-4f80-af03-a55bfa277a2a: 9de9ec2e-add5-4f80-50fc-5aa405d885d5
+    - 9e25a68d-e4d8-4d7e-814c-cfff1cb02f6d: 9e25a68d-e4d8-4d7e-7eb3-3000e34fd092
+    - a3eec977-3751-474e-af7f-7afcd2e8861e: a3eec977-3751-474e-5080-85032d1779e1
+    - a79a5471-efeb-4a5e-b852-7a6b6528a2cd: a79a5471-efeb-4a5e-47ad-85949ad75d32
+    - a93edc6f-da95-4a97-96b9-b2812a64057c: a93edc6f-da95-4a97-6946-4d7ed59bfa83
+    - ac57f89c-ffad-4415-94f3-c25bf2f97e8b: ac57f89c-ffad-4415-6b0c-3da40d068174
+    - b22e86d8-1872-4dfa-9aaa-01fabbbd124f: b22e86d8-1872-4dfa-6555-fe054442edb0
+    - b35a3ec7-b8ea-4745-91c1-3fcc4cc87f33: b35a3ec7-b8ea-4745-6e3e-c033b33780cc
+    - b4afbbf2-3c09-40cf-816b-c8cf664fbb68: b4afbbf2-3c09-40cf-7e94-373099b04497
+    - bc59dec4-e8e2-4566-9172-6c367f896699: bc59dec4-e8e2-4566-6e8d-93c980769966
+    - c45d077b-5c89-4c6e-96c4-a1ce75d4ad30: c45d077b-5c89-4c6e-693b-5e318a2b52cf
+    - cd392589-6f9a-4788-a496-475fbfac430b: cd392589-6f9a-4788-5b69-b8a04053bcf4
+    - e31c41bd-e12e-454e-b64d-a54eb9b363c6: e31c41bd-e12e-454e-49b2-5ab1464c9c39
+    - e9969ce0-6674-4d67-89e6-297dccbe2188: e9969ce0-6674-4d67-7619-d6823341de77
+    - ec093c19-0e2b-436c-b1d9-e9838842ba06: ec093c19-0e2b-436c-4e26-167c77bd45f9
+    - ec86f517-3980-4cbb-833e-2ce5500f46b4: ec86f517-3980-4cbb-7cc1-d31aaff0b94b
+    - ee2babe1-4e44-4777-b71c-f9fb2c8f3da9: ee2babe1-4e44-4777-48e3-0604d370c256
+    - ee751f4f-8959-4156-b37b-09f1d777c5a7: ee751f4f-8959-4156-4c84-f60e28883a58
+    - ef59ca75-a67d-4e26-821c-ee0385cdc1e1: ef59ca75-a67d-4e26-7de3-11fc7a323e1e
+    - f174642e-80e9-4d9f-bb98-40975f826406: f174642e-80e9-4d9f-4467-bf68a07d9bf9
+    - f1f4caf8-ee7a-40aa-8ccd-5cd220c236c9: f1f4caf8-ee7a-40aa-7332-a32ddf3dc936
+    - f2e6ea18-aa4a-44e0-bb96-344f0d00670a: f2e6ea18-aa4a-44e0-4469-cbb0f2ff98f5
+    - f47e49f4-6158-467f-ad58-792991d7923a: f47e49f4-6158-467f-52a7-86d66e286dc5
+    - f70aa91f-5005-471b-b572-4f1208098d44: f70aa91f-5005-471b-4a8d-b0edf7f672bb
+    - f71c3251-e4b5-411c-b358-32ca1eedf93e: f71c3251-e4b5-411c-4ca7-cd35e11206c1
+    - f71ca437-d7ec-4524-85ec-562466932aba: f71ca437-d7ec-4524-7a13-a9db996cd545
+    - fa6ace52-99d0-41bb-9fe6-c6502647e1e8: fa6ace52-99d0-41bb-6019-39afd9b81e17
+    - fae3c216-bddb-4953-917f-d90e5f99127a: fae3c216-bddb-4953-6e80-26f1a066ed85
+    - faf4a9fa-9164-42b4-92ef-05d8a224fe59: faf4a9fa-9164-42b4-6d10-fa275ddb01a6
+    - fcfd02d2-0432-4fb9-8382-0b84ca5f95ff: fcfd02d2-0432-4fb9-7c7d-f47b35a06a00
   Name: RemoteServiceGatewayExamples
   Enabled: true
   Layers: 1
@@ -713,15 +810,18 @@
     Mode: Solid
     Color: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
     Texture: !<reference> 00000000-0000-0000-0000-000000000000
+    ColorTint: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
     TileCount: 5.000000
     TileZone: Rect
     TextureStretch: FitWidth
+  BlendMode: PremultipliedAlpha
   Outline: !<OutlineSettings>
     Enabled: false
     Fill: !<TextFill>
       Mode: Solid
       Color: {x: 0.000000, y: 0.000000, z: 0.000000, w: 1.000000}
       Texture: !<reference> 00000000-0000-0000-0000-000000000000
+      ColorTint: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
       TileCount: 5.000000
       TileZone: Rect
       TextureStretch: FitWidth
@@ -732,6 +832,7 @@
       Mode: Solid
       Color: {x: 0.000000, y: 0.000000, z: 0.000000, w: 1.000000}
       Texture: !<reference> 00000000-0000-0000-0000-000000000000
+      ColorTint: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
       TileCount: 5.000000
       TileZone: Rect
       TextureStretch: FitWidth
@@ -743,6 +844,7 @@
       Mode: Solid
       Color: {x: 0.000000, y: 0.000000, z: 0.000000, w: 1.000000}
       Texture: !<reference> 00000000-0000-0000-0000-000000000000
+      ColorTint: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
       TileCount: 5.000000
       TileZone: Rect
       TextureStretch: FitWidth
@@ -806,15 +908,18 @@
     Mode: Solid
     Color: {x: 0.770291, y: 0.770291, z: 0.770291, w: 1.000000}
     Texture: !<reference> 00000000-0000-0000-0000-000000000000
+    ColorTint: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
     TileCount: 5.000000
     TileZone: Rect
     TextureStretch: FitWidth
+  BlendMode: PremultipliedAlpha
   Outline: !<OutlineSettings>
     Enabled: false
     Fill: !<TextFill>
       Mode: Solid
       Color: {x: 0.000000, y: 0.000000, z: 0.000000, w: 1.000000}
       Texture: !<reference> 00000000-0000-0000-0000-000000000000
+      ColorTint: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
       TileCount: 5.000000
       TileZone: Rect
       TextureStretch: FitWidth
@@ -825,6 +930,7 @@
       Mode: Solid
       Color: {x: 0.000000, y: 0.000000, z: 0.000000, w: 1.000000}
       Texture: !<reference> 00000000-0000-0000-0000-000000000000
+      ColorTint: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
       TileCount: 5.000000
       TileZone: Rect
       TextureStretch: FitWidth
@@ -836,6 +942,7 @@
       Mode: Solid
       Color: {x: 0.000000, y: 0.000000, z: 0.000000, w: 1.000000}
       Texture: !<reference> 00000000-0000-0000-0000-000000000000
+      ColorTint: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
       TileCount: 5.000000
       TileZone: Rect
       TextureStretch: FitWidth
@@ -1006,18 +1113,26 @@
   Enabled: true
   ScriptAsset: !<reference> 0c13bcb4-0e8c-4425-a43b-068eaeb8af5b
   ScriptInputsDefault:
-    audioOutput: true
+    textOutput: true
+    startPracticeOnTap: true
+    zenSpaceImage: true
+    spatialGallery: true
+    voiceInstructions: true
+    interactableObject: true
+    toggleViewButton: true
+    alternateSceneObject: true
   ScriptTypesDefault:
     {}
   ScriptInputs:
     "":
-      websocketRequirementsObj: !<reference.SceneObject> e31c41bd-e12e-454e-b64d-a54eb9b363c6
-      dynamicAudioOutput: !<MappingBased.AssignableType> 47caf807-5ecb-4c47-833b-65f8b9ded883
-      microphoneRecorder: !<MappingBased.AssignableType_1> 56c4409e-482d-43ea-a75d-fa9d54e1d630
-      textDisplay: !<reference.Text> 4484ca31-9fb8-4a24-affd-60beb0ce36b4
-      instructions: You are a helpful assistant that loves to make puns
-      audioOutput: false
-      voice: ash
+      textOutput: !<reference.Text> 00000000-0000-0000-0000-000000000000
+      startPracticeOnTap: false
+      zenSpaceImage: !<reference.Image> 00000000-0000-0000-0000-000000000000
+      spatialGallery: !<reference.ScriptComponent> 00000000-0000-0000-0000-000000000000
+      voiceInstructions: "Wise zen master or therapist tone. Calm, grounding, deeply peaceful voice. Speak slowly with intentional pauses between phrases."
+      interactableObject: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      toggleViewButton: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      alternateSceneObject: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
   ScriptTypes:
     "":
       {}
@@ -1088,15 +1203,18 @@
     Mode: Solid
     Color: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
     Texture: !<reference> 00000000-0000-0000-0000-000000000000
+    ColorTint: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
     TileCount: 5.000000
     TileZone: Rect
     TextureStretch: FitWidth
+  BlendMode: PremultipliedAlpha
   Outline: !<OutlineSettings>
     Enabled: false
     Fill: !<TextFill>
       Mode: Solid
       Color: {x: 0.000000, y: 0.000000, z: 0.000000, w: 1.000000}
       Texture: !<reference> 00000000-0000-0000-0000-000000000000
+      ColorTint: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
       TileCount: 5.000000
       TileZone: Rect
       TextureStretch: FitWidth
@@ -1107,6 +1225,7 @@
       Mode: Solid
       Color: {x: 0.000000, y: 0.000000, z: 0.000000, w: 1.000000}
       Texture: !<reference> 00000000-0000-0000-0000-000000000000
+      ColorTint: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
       TileCount: 5.000000
       TileZone: Rect
       TextureStretch: FitWidth
@@ -1118,6 +1237,7 @@
       Mode: Solid
       Color: {x: 0.000000, y: 0.000000, z: 0.000000, w: 1.000000}
       Texture: !<reference> 00000000-0000-0000-0000-000000000000
+      ColorTint: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
       TileCount: 5.000000
       TileZone: Rect
       TextureStretch: FitWidth
@@ -1195,15 +1315,18 @@
     Mode: Solid
     Color: {x: 0.770291, y: 0.770291, z: 0.770291, w: 1.000000}
     Texture: !<reference> 00000000-0000-0000-0000-000000000000
+    ColorTint: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
     TileCount: 5.000000
     TileZone: Rect
     TextureStretch: FitWidth
+  BlendMode: PremultipliedAlpha
   Outline: !<OutlineSettings>
     Enabled: false
     Fill: !<TextFill>
       Mode: Solid
       Color: {x: 0.000000, y: 0.000000, z: 0.000000, w: 1.000000}
       Texture: !<reference> 00000000-0000-0000-0000-000000000000
+      ColorTint: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
       TileCount: 5.000000
       TileZone: Rect
       TextureStretch: FitWidth
@@ -1214,6 +1337,7 @@
       Mode: Solid
       Color: {x: 0.000000, y: 0.000000, z: 0.000000, w: 1.000000}
       Texture: !<reference> 00000000-0000-0000-0000-000000000000
+      ColorTint: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
       TileCount: 5.000000
       TileZone: Rect
       TextureStretch: FitWidth
@@ -1225,6 +1349,7 @@
       Mode: Solid
       Color: {x: 0.000000, y: 0.000000, z: 0.000000, w: 1.000000}
       Texture: !<reference> 00000000-0000-0000-0000-000000000000
+      ColorTint: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
       TileCount: 5.000000
       TileZone: Rect
       TextureStretch: FitWidth
@@ -1271,15 +1396,18 @@
     Mode: Solid
     Color: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
     Texture: !<reference> 00000000-0000-0000-0000-000000000000
+    ColorTint: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
     TileCount: 5.000000
     TileZone: Rect
     TextureStretch: FitWidth
+  BlendMode: PremultipliedAlpha
   Outline: !<OutlineSettings>
     Enabled: false
     Fill: !<TextFill>
       Mode: Solid
       Color: {x: 0.000000, y: 0.000000, z: 0.000000, w: 1.000000}
       Texture: !<reference> 00000000-0000-0000-0000-000000000000
+      ColorTint: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
       TileCount: 5.000000
       TileZone: Rect
       TextureStretch: FitWidth
@@ -1290,6 +1418,7 @@
       Mode: Solid
       Color: {x: 0.000000, y: 0.000000, z: 0.000000, w: 1.000000}
       Texture: !<reference> 00000000-0000-0000-0000-000000000000
+      ColorTint: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
       TileCount: 5.000000
       TileZone: Rect
       TextureStretch: FitWidth
@@ -1301,6 +1430,7 @@
       Mode: Solid
       Color: {x: 0.304662, y: 0.304662, z: 0.304662, w: 1.000000}
       Texture: !<reference> 00000000-0000-0000-0000-000000000000
+      ColorTint: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
       TileCount: 5.000000
       TileZone: Rect
       TextureStretch: FitWidth
@@ -1377,15 +1507,18 @@
     Mode: Solid
     Color: {x: 0.770291, y: 0.770291, z: 0.770291, w: 1.000000}
     Texture: !<reference> 00000000-0000-0000-0000-000000000000
+    ColorTint: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
     TileCount: 5.000000
     TileZone: Rect
     TextureStretch: FitWidth
+  BlendMode: PremultipliedAlpha
   Outline: !<OutlineSettings>
     Enabled: false
     Fill: !<TextFill>
       Mode: Solid
       Color: {x: 0.000000, y: 0.000000, z: 0.000000, w: 1.000000}
       Texture: !<reference> 00000000-0000-0000-0000-000000000000
+      ColorTint: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
       TileCount: 5.000000
       TileZone: Rect
       TextureStretch: FitWidth
@@ -1396,6 +1529,7 @@
       Mode: Solid
       Color: {x: 0.000000, y: 0.000000, z: 0.000000, w: 1.000000}
       Texture: !<reference> 00000000-0000-0000-0000-000000000000
+      ColorTint: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
       TileCount: 5.000000
       TileZone: Rect
       TextureStretch: FitWidth
@@ -1407,6 +1541,7 @@
       Mode: Solid
       Color: {x: 0.000000, y: 0.000000, z: 0.000000, w: 1.000000}
       Texture: !<reference> 00000000-0000-0000-0000-000000000000
+      ColorTint: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
       TileCount: 5.000000
       TileZone: Rect
       TextureStretch: FitWidth
@@ -1499,15 +1634,18 @@
     Mode: Solid
     Color: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
     Texture: !<reference> 00000000-0000-0000-0000-000000000000
+    ColorTint: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
     TileCount: 5.000000
     TileZone: Rect
     TextureStretch: FitWidth
+  BlendMode: PremultipliedAlpha
   Outline: !<OutlineSettings>
     Enabled: true
     Fill: !<TextFill>
       Mode: Solid
       Color: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
       Texture: !<reference> 00000000-0000-0000-0000-000000000000
+      ColorTint: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
       TileCount: 5.000000
       TileZone: Rect
       TextureStretch: FitWidth
@@ -1518,6 +1656,7 @@
       Mode: Solid
       Color: {x: 0.000000, y: 0.000000, z: 0.000000, w: 1.000000}
       Texture: !<reference> 00000000-0000-0000-0000-000000000000
+      ColorTint: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
       TileCount: 5.000000
       TileZone: Rect
       TextureStretch: FitWidth
@@ -1529,6 +1668,7 @@
       Mode: Solid
       Color: {x: 0.515984, y: 0.403967, z: 0.000000, w: 1.000000}
       Texture: !<reference> 00000000-0000-0000-0000-000000000000
+      ColorTint: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
       TileCount: 5.000000
       TileZone: Rect
       TextureStretch: FitWidth
@@ -1709,15 +1849,18 @@
     Mode: Solid
     Color: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
     Texture: !<reference> 00000000-0000-0000-0000-000000000000
+    ColorTint: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
     TileCount: 5.000000
     TileZone: Rect
     TextureStretch: FitWidth
+  BlendMode: PremultipliedAlpha
   Outline: !<OutlineSettings>
     Enabled: false
     Fill: !<TextFill>
       Mode: Solid
       Color: {x: 0.000000, y: 0.000000, z: 0.000000, w: 1.000000}
       Texture: !<reference> 00000000-0000-0000-0000-000000000000
+      ColorTint: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
       TileCount: 5.000000
       TileZone: Rect
       TextureStretch: FitWidth
@@ -1728,6 +1871,7 @@
       Mode: Solid
       Color: {x: 0.000000, y: 0.000000, z: 0.000000, w: 1.000000}
       Texture: !<reference> 00000000-0000-0000-0000-000000000000
+      ColorTint: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
       TileCount: 5.000000
       TileZone: Rect
       TextureStretch: FitWidth
@@ -1739,6 +1883,7 @@
       Mode: Solid
       Color: {x: 0.000000, y: 0.000000, z: 0.000000, w: 1.000000}
       Texture: !<reference> 00000000-0000-0000-0000-000000000000
+      ColorTint: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
       TileCount: 5.000000
       TileZone: Rect
       TextureStretch: FitWidth
@@ -1866,15 +2011,18 @@
     Mode: Solid
     Color: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
     Texture: !<reference> 00000000-0000-0000-0000-000000000000
+    ColorTint: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
     TileCount: 5.000000
     TileZone: Rect
     TextureStretch: FitWidth
+  BlendMode: PremultipliedAlpha
   Outline: !<OutlineSettings>
     Enabled: false
     Fill: !<TextFill>
       Mode: Solid
       Color: {x: 0.000000, y: 0.000000, z: 0.000000, w: 1.000000}
       Texture: !<reference> 00000000-0000-0000-0000-000000000000
+      ColorTint: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
       TileCount: 5.000000
       TileZone: Rect
       TextureStretch: FitWidth
@@ -1885,6 +2033,7 @@
       Mode: Solid
       Color: {x: 0.000000, y: 0.000000, z: 0.000000, w: 1.000000}
       Texture: !<reference> 00000000-0000-0000-0000-000000000000
+      ColorTint: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
       TileCount: 5.000000
       TileZone: Rect
       TextureStretch: FitWidth
@@ -1896,6 +2045,7 @@
       Mode: Solid
       Color: {x: 0.304662, y: 0.304662, z: 0.304662, w: 1.000000}
       Texture: !<reference> 00000000-0000-0000-0000-000000000000
+      ColorTint: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
       TileCount: 5.000000
       TileZone: Rect
       TextureStretch: FitWidth
@@ -1992,15 +2142,18 @@
     Mode: Solid
     Color: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
     Texture: !<reference> 00000000-0000-0000-0000-000000000000
+    ColorTint: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
     TileCount: 5.000000
     TileZone: Rect
     TextureStretch: FitWidth
+  BlendMode: PremultipliedAlpha
   Outline: !<OutlineSettings>
     Enabled: false
     Fill: !<TextFill>
       Mode: Solid
       Color: {x: 0.000000, y: 0.000000, z: 0.000000, w: 1.000000}
       Texture: !<reference> 00000000-0000-0000-0000-000000000000
+      ColorTint: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
       TileCount: 5.000000
       TileZone: Rect
       TextureStretch: FitWidth
@@ -2011,6 +2164,7 @@
       Mode: Solid
       Color: {x: 0.000000, y: 0.000000, z: 0.000000, w: 1.000000}
       Texture: !<reference> 00000000-0000-0000-0000-000000000000
+      ColorTint: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
       TileCount: 5.000000
       TileZone: Rect
       TextureStretch: FitWidth
@@ -2022,6 +2176,7 @@
       Mode: Solid
       Color: {x: 0.000000, y: 0.000000, z: 0.000000, w: 1.000000}
       Texture: !<reference> 00000000-0000-0000-0000-000000000000
+      ColorTint: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
       TileCount: 5.000000
       TileZone: Rect
       TextureStretch: FitWidth
@@ -2150,15 +2305,18 @@
     Mode: Solid
     Color: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
     Texture: !<reference> 00000000-0000-0000-0000-000000000000
+    ColorTint: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
     TileCount: 5.000000
     TileZone: Rect
     TextureStretch: FitWidth
+  BlendMode: PremultipliedAlpha
   Outline: !<OutlineSettings>
     Enabled: true
     Fill: !<TextFill>
       Mode: Solid
       Color: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
       Texture: !<reference> 00000000-0000-0000-0000-000000000000
+      ColorTint: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
       TileCount: 5.000000
       TileZone: Rect
       TextureStretch: FitWidth
@@ -2169,6 +2327,7 @@
       Mode: Solid
       Color: {x: 0.000000, y: 0.000000, z: 0.000000, w: 1.000000}
       Texture: !<reference> 00000000-0000-0000-0000-000000000000
+      ColorTint: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
       TileCount: 5.000000
       TileZone: Rect
       TextureStretch: FitWidth
@@ -2180,6 +2339,7 @@
       Mode: Solid
       Color: {x: 0.568704, y: 0.608637, z: 0.000000, w: 1.000000}
       Texture: !<reference> 00000000-0000-0000-0000-000000000000
+      ColorTint: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
       TileCount: 5.000000
       TileZone: Rect
       TextureStretch: FitWidth

@@ -1,0 +1,119 @@
+- !<AssetImportMetadata/210355f1-cb82-4f3c-99be-b914ea1021e1>
+  ImportedAssetIds:
+    .hidden/Material: !<reference> 6e5ebdef-99fa-4b2e-9653-c9cb0ed08b1c
+    0025ed9e47ac1ef4: !<reference> 9025a07b-aa5d-43ec-9b5e-8375d60a833d
+    04196f0d3c638723: !<reference> ee44df63-7872-44ef-826a-b4bd6f24e2e0
+    0930607e030d5c5c: !<reference> 0c7bd50c-8db1-4aea-a2f0-379cbf078be1
+    1ab8e18225e96092: !<reference> 6d4ddb30-17ff-4abd-94ba-b8184b53fb2d
+    1f5582e6b591f018: !<reference> 53d5a30e-c7ad-478c-ba61-45f218e2ad14
+    1f9a30c09df17ab6: !<reference> 1d3780e5-5361-4256-bd61-9109709c502b
+    24eb0cfbc6e7b001: !<reference> b076c9e6-3bb9-457b-9726-bd7f23fe9c32
+    276f76bfdc581fe1: !<reference> 7d82ed49-9881-453e-920a-ddaf2aded715
+    2c90810418c77ed1: !<reference> 032bf66c-f9bc-4817-86d3-2694c78a68d9
+    3292b3c0ed40c585: !<reference> 87fb2951-b98d-494d-9a8c-f6d6195f357e
+    36fda080d8c8ff8d: !<reference> 4b8249c5-4b3a-4b14-bf76-604db495b8e5
+    3a3d4ec88d71abe3: !<reference> aaf43235-ca79-40ab-a993-27a403de283b
+    40d5d21b1c4c57b2: !<reference> b30ad0d9-6436-4699-8dac-c44b9c0c6d7c
+    4a3e924fad0e2f27: !<reference> 18afd135-1feb-4f2a-96f9-b40494b8ec73
+    4e3ac7c8e1868e05: !<reference> 7b130a24-0963-421c-bc7b-bef2762ec6bc
+    5456cd091e7655cc: !<reference> e25c88e6-c6ca-4ad2-8ab1-71db182edce9
+    5cff5752b18464a6: !<reference> 96b3732d-4f5b-4c29-a160-b7ea085fff53
+    66780cf3a4dcb2b8: !<reference> d3f02606-0e7e-42a9-9502-9cbf8ac7759b
+    6b78e363f73cbc9e: !<reference> af8c796d-52da-4c84-b184-58ac31549838
+    78181510be4f258b: !<reference> c1e2a243-f40a-4b61-a755-89a625702c55
+    7fbbb6e8176055a0: !<reference> fbc8c3ee-c892-461b-a035-3bc2f937913e
+    83a2181f3aa64294: !<reference> 8dfcafb3-333a-471a-b202-61798e90b2af
+    8cc004ff93d4b7dd: !<reference> b1cd7ce4-df7e-4adc-84bd-661965215c13
+    9235e7af836c12e7: !<reference> 312fdab2-98c3-43ce-837a-69199208d6e7
+    9f5f4317f2811052: !<reference> 445bebd0-83b1-4027-b152-dbacee8bb87f
+    Materials/Material: !<reference> 4c1d768c-3a85-4392-9737-1773ce54d2e2
+    Materials/Material.001: !<reference> 77ee9460-539a-47a7-8953-e3f819604840
+    Materials/Material.001|Material.001|GraphPassInfo: !<reference> ce1e91fb-dbf5-4e74-ac8e-8f6468a5c29f
+    Materials/Material.002: !<reference> 7dce28b9-2b5e-40fc-9f92-2b9c451fd1b5
+    Materials/Material.002|Material.002|GraphPassInfo: !<reference> a749dc96-4e8f-4dbf-b5f4-4c419f2260d0
+    Materials/Material.003: !<reference> 39c7e5e9-02db-4168-869b-91d6f06f8e68
+    Materials/Material.003|Material.003|GraphPassInfo: !<reference> 965eaf4c-119f-497a-8a4f-9d4a0e4c2f89
+    Materials/Material.004: !<reference> 9c647b4a-7fe0-4198-8a94-cdf3120a22fb
+    Materials/Material.004|Material.004|GraphPassInfo: !<reference> 6b9045dc-a334-4243-9553-9a38085fa07b
+    Materials/Material|Material|GraphPassInfo: !<reference> e7bfb07c-cf76-46dc-a1d1-f603279fcf65
+    Materials/material_0: !<reference> e5ff66e8-75ed-4799-a2a3-95bf67fa1d7d
+    Materials/material_0|material_0|GraphPassInfo: !<reference> 6bac3c47-30d3-46ce-937b-838aba930d55
+    Meshes/Object_0: !<reference> 5014822f-5d94-45da-84c8-bd941396ae57
+    Meshes/Object_1: !<reference> aa584dba-0758-4b3f-85a5-c723b6b3b531
+    Meshes/Object_10: !<reference> 976763d0-8250-4335-9dd1-e740b305ea43
+    Meshes/Object_11: !<reference> 0c6cff1c-4a1c-457e-b1f8-9226f252f66b
+    Meshes/Object_12: !<reference> c979a447-c6fe-4089-9084-1a81486f8b08
+    Meshes/Object_13: !<reference> 7446c493-082f-44f8-9cd6-a80d4e8a5692
+    Meshes/Object_14: !<reference> 26f2272f-4036-4a05-96a2-0759e880835d
+    Meshes/Object_15: !<reference> 438b2fdc-6d6d-438d-a9fe-6c08973dffe5
+    Meshes/Object_2: !<reference> f0cc08a5-425b-4090-9a60-6aed708abaeb
+    Meshes/Object_3: !<reference> 134bbab1-a693-4aab-a685-adb0c16b2208
+    Meshes/Object_4: !<reference> 4005beda-9379-4438-8062-171c8a1cb921
+    Meshes/Object_5: !<reference> 438346c3-1a52-4815-aff2-4039508af2ae
+    Meshes/Object_6: !<reference> f13f4fb9-a6e2-4f05-95d0-41c0396310f0
+    Meshes/Object_7: !<reference> d2faf35b-d1ad-4688-8d0e-25bf7b556e54
+    Meshes/Object_8: !<reference> 7cf88fd0-50ae-40b2-859b-e1ca58b2f701
+    Meshes/Object_9: !<reference> dc93a64b-7b78-4aee-9d93-19f4d8167380
+    Scene: !<reference> bf2f66cb-700f-41b2-aa74-d4b3f177952d
+    a55e3658a2232c87: !<reference> 56eed66e-d175-4127-b362-1bededb4ef10
+    a5e3bc810e732838: !<reference> cbefe2ec-7c0c-454d-9f4f-cb3b4f1193b6
+    af755080b7137ddc: !<reference> 31577717-ee7f-4886-b1ba-83da31b93665
+    af770ef16227d060: !<reference> 6d23a8de-dce2-4214-bfbd-433a137f6fe6
+    b101067f898d0d63: !<reference> a4096883-2d5e-495e-8cfb-ba2020b274e8
+    b2a02678d314bd1b: !<reference> f0d3ec21-4aab-44fb-a4b4-b007a386772d
+    b69764284f503b28: !<reference> 6ae35e33-3e35-4e7f-9ec9-ca5ce197a477
+    b74c064edc7b2abb: !<reference> e142d3e2-7409-4bbf-9755-897c37206773
+    bc0213983ab2fb63: !<reference> 9a22b242-9d0c-4107-a2b4-dd3f5b0aec19
+    bc7d47d8900d2005: !<reference> 1f73d29d-1df6-4d48-961c-f982e125c20b
+    c7bd4e9e8f10adcc: !<reference> abcf9a8d-fa12-4281-b682-949646860cf3
+    c9ce5c532c92e79c: !<reference> b4d25bc3-914e-4fb3-b659-45c5a7a069c5
+    cc67e5255158dd52: !<reference> 9519b049-bc97-4fc8-970f-91b614f6b103
+    d03141ded8a53fde: !<reference> 32dc9eaa-46bf-42e7-908c-dec2e61d28c4
+    dac8e11ad01daf00: !<reference> e6dfbea2-f29f-40a8-a9a1-c0887b9a7c4a
+    dafb93fc067465e7: !<reference> 6137295a-4ec3-4e0b-aa41-68bba3cbaf8f
+    e1e8c62d61260b98: !<reference> c97069a8-8424-4d8a-97ff-58be2d5b175f
+    e6ca36c2be1e5996: !<reference> efe96680-72ac-4c1f-99b0-73ee5e77d93c
+    e7b4807ff1764824: !<reference> faffb091-7632-4670-8c50-c1c6431df63b
+    ebce8e4102848d4e: !<reference> 8c4c9d3c-b71b-4e29-b18d-103ecb4c1b04
+    ee08278b3accc4f3: !<reference> 43409ecc-7907-48cc-8782-e03ff8006979
+    f1eabf15127ce63e: !<reference> 1e44ec26-97a5-48b0-8cf5-f9422f96e7d8
+    f6186b998ced4e55: !<reference> 645ea521-9890-48b1-aa29-23283ba9e660
+    f619e79a4775cdf9: !<reference> b1c297c5-a8a5-4a9a-be59-aae84d806a5a
+    fd2114c3cae1c25c: !<reference> 81807dbb-863c-4e06-bfba-7aa24a48845f
+    fd8af3c8c439c11b: !<reference> 0d34d3d2-d47f-49a3-accb-801a4135c192
+    ff7936aad4ab157c: !<reference> 10f93a4e-f02f-4cb9-bad2-c2f5cc210aa1
+  ImporterName: GltfImporter
+  PrimaryAsset: !<reference> bf2f66cb-700f-41b2-aa74-d4b3f177952d
+  PackageType: LegacyPackage
+  PackagePolicy: CanBeUnpackedTransparent
+  ExtraData:
+    {}
+  AssetDataMap:
+    Scene: !<own> 88e79f0a-65a2-4326-a37b-c3d5734f090d
+  DependentFiles:
+    - scene.bin
+  ImporterSettings: !<GltfImporterSettings>
+    UseLegacyImporter: false
+    WithMaterials: true
+    NamingConvention: ByCategorySanitizeV2
+    PersistentIdGenerationAlgorithm: DescriptorBased
+    AnimationCurveOptimization: true
+    CustomAnimationSamplingRate: 30.000000
+    ImportVertexColor: true
+    ImportTangents: true
+    ImportMorphTargetAnimation: true
+    ConvertMetersToCentimeters: true
+    RegenerateTangents: false
+  CompressionSettings: !<ComplexCompressionSettings>
+    Presets:
+      None Compression: !<SingleCompressionSettings>
+        CompressorName: None
+        CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+    ExtensionMappings:
+      mesh: None Compression
+    Overrides:
+      {}
+- !<ObjectPrefabAssetData/88e79f0a-65a2-4326-a37b-c3d5734f090d>
+  SourceRemaps:
+    []
+  SourceState: !<own> 00000000-0000-0000-0000-000000000000

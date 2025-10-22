@@ -13,7 +13,7 @@
     Textures/Image_4: !<reference> 2ac6e4f0-a7ab-4365-87ef-7631b3a8d7bc
     Textures/Image_5: !<reference> 1cfdb446-a9c0-48fe-aece-dc62d5b22155
     bfb0517969e4b33c: !<reference> a72c091a-fdcc-42ae-8a58-9ab6a9a9bf30
-    f7823ed8e3d3f631: !<reference> 9fda1ac5-1533-42cd-becc-c3fec0db429d
+    f7823ed8e3d3f631: !<reference> e874982b-919f-4891-abbb-01f0a5bc1738
   ImporterName: GltfImporter
   PrimaryAsset: !<reference> 4aeae223-c8b7-4676-8853-20aa5b4a19f4
   PackageType: LegacyPackage
@@ -54,106 +54,5 @@
       {}
 - !<ObjectPrefabAssetData/19e405c0-8456-48bf-b87a-d041de7aa593>
   SourceRemaps:
-    - 0f15ebbe-ada7-4bf8-9fc2-ed79c3722f8b: f66a4c72-0dec-4fc8-aaed-95db98f64e8c
-    - 30b7022d-720f-4757-9254-367e5bfd49c1: e8668042-1b3b-49c7-9f7d-911bc3af09be
-    - 475a4c72-65e6-4065-898a-fd8ea7a42bde: efeafa7e-e95c-4bd8-9cf8-27ea84547289
-    - 487abc28-fd87-4be3-a2b7-02f46774c5c6: 50cbff06-7705-49cf-9d96-2131bb9b5d30
-    - 4aeae223-c8b7-4676-8853-20aa5b4a19f4: c5d060f3-b75c-47d3-9143-d7eb225220dc
-    - 9fda1ac5-1533-42cd-becc-c3fec0db429d: b537c2ee-4cd0-4333-a4e5-11470e49259f
-    - a72c091a-fdcc-42ae-8a58-9ab6a9a9bf30: 310f7b9d-4637-4ec1-994c-339c8096b8c2
-  SourceState: !<own> c5d060f3-b75c-47d3-9143-d7eb225220dc
-- !<RenderMeshVisual/310f7b9d-4637-4ec1-994c-339c8096b8c2>
-  PrefabRemaps:
     []
-  Name: defaultMaterial.001
-  Enabled: true
-  RenderOrder: 0
-  StretchMode: Stretch
-  VerticalAlignment: Center
-  HorizontalAlignment: Center
-  MeshShadowMode: None
-  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
-  ShadowDensity: 1.000000
-  Materials:
-    - !<reference> 692b5960-6c9f-462a-855d-ce0cdc3abcbf
-  Mesh: !<reference> 0d59a33d-3af2-4aab-aaa2-27858900dcad
-  Skin: !<reference> 00000000-0000-0000-0000-000000000000
-  BlendShapesEnabled: true
-  BlendNormals: false
-  BlendShapes:
-    {}
-- !<SceneObject/50cbff06-7705-49cf-9d96-2131bb9b5d30>
-  PrefabRemaps:
-    []
-  Name: Scenes
-  Enabled: true
-  Layers: 1
-  LocalTransform: !<TransformEntity>
-    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
-    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
-    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
-    HasSegmentScaleCompensation: false
-  Children:
-    - !<own> e8668042-1b3b-49c7-9f7d-911bc3af09be
-  Components:
-    []
-- !<AnimationPlayer/b537c2ee-4cd0-4333-a4e5-11470e49259f>
-  PrefabRemaps:
-    []
-  Name: component_1
-  Enabled: true
-  Autoplay: true
-  ClipRangeType: Frames
-  AnimationClips:
-    []
-- !<ObjectPrefab/c5d060f3-b75c-47d3-9143-d7eb225220dc>
-  PackagePath: ""
-  objects:
-    - !<own> f66a4c72-0dec-4fc8-aaed-95db98f64e8c
-  LazyLoading: false
-  RetainAssets: true
-- !<SceneObject/e8668042-1b3b-49c7-9f7d-911bc3af09be>
-  PrefabRemaps:
-    []
-  Name: Scene
-  Enabled: true
-  Layers: 1
-  LocalTransform: !<TransformEntity>
-    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
-    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
-    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
-    HasSegmentScaleCompensation: false
-  Children:
-    - !<own> efeafa7e-e95c-4bd8-9cf8-27ea84547289
-  Components:
-    - !<own> b537c2ee-4cd0-4333-a4e5-11470e49259f
-- !<SceneObject/efeafa7e-e95c-4bd8-9cf8-27ea84547289>
-  PrefabRemaps:
-    []
-  Name: defaultMaterial.001
-  Enabled: true
-  Layers: 1
-  LocalTransform: !<TransformEntity>
-    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
-    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
-    Scale: {x: 0.005000, y: 0.005000, z: 0.005000}
-    HasSegmentScaleCompensation: false
-  Children:
-    []
-  Components:
-    - !<own> 310f7b9d-4637-4ec1-994c-339c8096b8c2
-- !<SceneObject/f66a4c72-0dec-4fc8-aaed-95db98f64e8c>
-  PrefabRemaps:
-    []
-  Name: lotus
-  Enabled: true
-  Layers: 1
-  LocalTransform: !<TransformEntity>
-    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
-    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
-    Scale: {x: 100.000000, y: 100.000000, z: 100.000000}
-    HasSegmentScaleCompensation: false
-  Children:
-    - !<own> 50cbff06-7705-49cf-9d96-2131bb9b5d30
-  Components:
-    []
+  SourceState: !<own> 00000000-0000-0000-0000-000000000000

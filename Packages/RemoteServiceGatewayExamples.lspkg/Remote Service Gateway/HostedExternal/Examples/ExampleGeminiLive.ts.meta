@@ -4,7 +4,7 @@
   ImporterName: TypeScriptAssetImporter
   PrimaryAsset: !<reference> bca6de36-829d-4a57-ad4e-4c68fe77688d
   PackageType: NotAPackage
-  PackagePolicy: CannotBeUnpacked
+  LegacyPackagePolicy: ~
   ExtraData:
     {}
   AssetDataMap:
@@ -24,8 +24,7 @@
   VersionPatch: 0
   ComponentUid: be25359e-b6d8-4951-8e6c-c92f4253b028
   ExportUid: 00000000-0000-0000-0000-000000000000
-  CurrentVisibility: Editable
-  MaxVisibility: Editable
+  PackagePolicy: CanBeUnpacked
   ScriptInputsHidden:
     dynamicAudioOutput: false
     haveAudioOutput: false
@@ -39,6 +38,10 @@
     {}
   ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
   DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
   DefaultScriptInputs:
     - websocketRequirementsObj: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
       dynamicAudioOutput: !<MappingBased.AssignableType> 00000000-0000-0000-0000-000000000000

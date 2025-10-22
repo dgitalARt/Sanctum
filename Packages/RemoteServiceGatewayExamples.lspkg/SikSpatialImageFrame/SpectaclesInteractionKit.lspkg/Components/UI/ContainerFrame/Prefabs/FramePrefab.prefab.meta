@@ -4,7 +4,7 @@
   ImporterName: ObjectPrefabImporter
   PrimaryAsset: !<reference> 57fad5c6-b573-4fbf-9795-73c999715756
   PackageType: NotAPackage
-  PackagePolicy: CannotBeUnpacked
+  LegacyPackagePolicy: ~
   ExtraData:
     {}
   AssetDataMap:
@@ -14,19 +14,23 @@
   ImporterSettings: !<AssetImporterSettings>
     {}
   CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
-- !<ObjectPrefab/073f10e5-5889-44a7-913d-30d41088bbfc>
-  PackagePath: ""
-  objects:
-    - !<own> b279a971-6dd4-4cdf-8303-841e5cb756c0
-  LazyLoading: false
-  RetainAssets: true
-- !<ObjectPrefabAssetData/718580ab-7ab5-4637-b379-2b6f11e20659>
-  SourceRemaps:
-    - 0178e32f-42d0-4e6e-8f05-8e7c0055bad2: b279a971-6dd4-4cdf-8303-841e5cb756c0
-    - 0e2b1416-c775-498e-a653-f4a3bb78cb9d: a7438172-6344-4c17-9856-6b878d2831b2
-    - 839e8b8e-ffd2-4487-a8e5-93c738304a08: c41b012f-6d5e-4a77-9f2c-be5cce332a5a
-  SourceState: !<own> 073f10e5-5889-44a7-913d-30d41088bbfc
-- !<RenderMeshVisual/a7438172-6344-4c17-9856-6b878d2831b2>
+- !<SceneObject/0178e32f-42d0-4e6e-70fa-7183ffaa452d>
+  PrefabRemaps:
+    []
+  Name: FramePrefab
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 839e8b8e-ffd2-4487-571a-6c38c7cfb5f7
+    - !<own> 0e2b1416-c775-498e-59ac-0b5c44873462
+- !<RenderMeshVisual/0e2b1416-c775-498e-59ac-0b5c44873462>
   PrefabRemaps:
     []
   Name: Render Mesh Visual
@@ -46,23 +50,12 @@
   BlendNormals: false
   BlendShapes:
     {}
-- !<SceneObject/b279a971-6dd4-4cdf-8303-841e5cb756c0>
-  PrefabRemaps:
-    []
-  Name: FramePrefab
-  Enabled: true
-  Layers: 1
-  LocalTransform: !<TransformEntity>
-    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
-    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
-    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
-    HasSegmentScaleCompensation: false
-  Children:
-    []
-  Components:
-    - !<own> c41b012f-6d5e-4a77-9f2c-be5cce332a5a
-    - !<own> a7438172-6344-4c17-9856-6b878d2831b2
-- !<ColliderComponent/c41b012f-6d5e-4a77-9f2c-be5cce332a5a>
+- !<ObjectPrefabAssetData/718580ab-7ab5-4637-b379-2b6f11e20659>
+  Prototype: !<ObjectOwner/71ec2fc2-4d46-474d-8880-50752b8ce68f>
+    PackagePath: ""
+    objects:
+      - !<own> 0178e32f-42d0-4e6e-70fa-7183ffaa452d
+- !<ColliderComponent/839e8b8e-ffd2-4487-571a-6c38c7cfb5f7>
   PrefabRemaps:
     []
   Name: Physics Collider

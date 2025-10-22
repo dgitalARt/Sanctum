@@ -2,9 +2,9 @@
   PackagePath: ""
   StudioVersion:
     major: 5
-    minor: 14
+    minor: 15
     patch: 0
-    build: 25091606
+    build: 25101318
     type: Unset
     buildFlavor: ""
     timestamp: 0
@@ -16,12 +16,15 @@
   VersionMajor: 1
   VersionMinor: 0
   VersionPatch: 0
-  UpdateCheckpoint: 75
+  UpdateCheckpoint: 76
   ExportUid: ab4c2f37-302a-4c8b-a6a3-0e7dfa7b1b9e
   ComponentUid: 3d9f5047-d9e5-454d-94df-b40aa8e426f9
-  CurrentVisibility: Editable
-  MaxVisibility: Editable
+  PackagePolicy: ShouldBeUnpacked
   ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
   Instantiable: !<reference> 00000000-0000-0000-0000-000000000000
   AssetLibraryDependencyStructure: !<AssetLibraryDependencyStructure>
     Name: ""

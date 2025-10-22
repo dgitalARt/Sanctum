@@ -22,7 +22,8 @@
       {}
 - !<SceneObject/f854bb32-1159-4733-903c-ebecc14ab8d2>
   PrefabRemaps:
-    []
+    - a4694ed5-db77-433d-ac11-96879772f111: a4694ed5-db77-433d-53ee-6978688d0eee
+    - f854bb32-1159-4733-903c-ebecc14ab8d2: f854bb32-1159-4733-6fc3-14133eb5472d
   Name: LoadingSpinner
   Enabled: true
   Layers: 1

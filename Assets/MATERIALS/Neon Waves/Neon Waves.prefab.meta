@@ -4,7 +4,7 @@
   ImporterName: ObjectPrefabImporter
   PrimaryAsset: !<reference> b68153bf-243f-4c75-b892-4f261b99b20c
   PackageType: NotAPackage
-  PackagePolicy: CannotBeUnpacked
+  LegacyPackagePolicy: ~
   ExtraData:
     {}
   AssetDataMap:
@@ -14,22 +14,7 @@
   ImporterSettings: !<AssetImporterSettings>
     {}
   CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
-- !<SceneObject/18e2f8bc-e4df-4995-a690-09359e88fd17>
-  PrefabRemaps:
-    []
-  Name: Sphere
-  Enabled: true
-  Layers: 1
-  LocalTransform: !<TransformEntity>
-    Position: {x: 0.000000, y: -7.500000, z: 0.000000}
-    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
-    Scale: {x: 1.100000, y: 1.100000, z: 1.100000}
-    HasSegmentScaleCompensation: false
-  Children:
-    []
-  Components:
-    - !<own> 913df762-5fab-406e-b94b-c735ce22fbbc
-- !<SceneObject/26b00147-887c-4ee2-ae43-8b71c76369ea>
+- !<SceneObject/01338295-dfa1-41c1-6f53-3c32172313e1>
   PrefabRemaps:
     []
   Name: Plane
@@ -43,8 +28,8 @@
   Children:
     []
   Components:
-    - !<own> fe4ec61f-9920-468a-8040-39500fcc5541
-- !<RenderMeshVisual/913df762-5fab-406e-b94b-c735ce22fbbc>
+    - !<own> ee2653e5-cf88-4ce5-76bd-bdff4bd88fbf
+- !<RenderMeshVisual/0fd87757-4d60-4125-7151-e8c7e86b170d>
   PrefabRemaps:
     []
   Name: Render Mesh Visual
@@ -64,7 +49,22 @@
   BlendNormals: false
   BlendShapes:
     {}
-- !<SceneObject/963be178-0746-4bb0-a34b-6f6d53cd8874>
+- !<SceneObject/12ffc87d-4a51-40f2-7c40-493cc03a088d>
+  PrefabRemaps:
+    []
+  Name: Sphere
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: -7.500000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.100000, y: 1.100000, z: 1.100000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 0fd87757-4d60-4125-7151-e8c7e86b170d
+- !<SceneObject/ad33ec41-69ac-465c-4c7c-44f9ffb35645>
   PrefabRemaps:
     []
   Name: Neon Waves Material
@@ -76,25 +76,16 @@
     Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
     HasSegmentScaleCompensation: false
   Children:
-    - !<own> 18e2f8bc-e4df-4995-a690-09359e88fd17
-    - !<own> 26b00147-887c-4ee2-ae43-8b71c76369ea
+    - !<own> 12ffc87d-4a51-40f2-7c40-493cc03a088d
+    - !<own> 01338295-dfa1-41c1-6f53-3c32172313e1
   Components:
     []
 - !<ObjectPrefabAssetData/c8eabae4-ae11-4e90-b1e0-1f5f4c7b0c1d>
-  SourceRemaps:
-    - 01338295-dfa1-41c1-90ac-c3cde8dcec1e: 26b00147-887c-4ee2-ae43-8b71c76369ea
-    - 0fd87757-4d60-4125-8eae-17381794e8f2: 913df762-5fab-406e-b94b-c735ce22fbbc
-    - 12ffc87d-4a51-40f2-83bf-b6c33fc5f772: 18e2f8bc-e4df-4995-a690-09359e88fd17
-    - ad33ec41-69ac-465c-b383-bb06004ca9ba: 963be178-0746-4bb0-a34b-6f6d53cd8874
-    - ee2653e5-cf88-4ce5-8942-4200b4277040: fe4ec61f-9920-468a-8040-39500fcc5541
-  SourceState: !<own> e9d20304-bf03-4c25-8f68-030dda4030f9
-- !<ObjectPrefab/e9d20304-bf03-4c25-8f68-030dda4030f9>
-  PackagePath: ""
-  objects:
-    - !<own> 963be178-0746-4bb0-a34b-6f6d53cd8874
-  LazyLoading: false
-  RetainAssets: true
-- !<RenderMeshVisual/fe4ec61f-9920-468a-8040-39500fcc5541>
+  Prototype: !<ObjectOwner/2ce7833a-f414-4506-945f-4c4772ca4f99>
+    PackagePath: ""
+    objects:
+      - !<own> ad33ec41-69ac-465c-4c7c-44f9ffb35645
+- !<RenderMeshVisual/ee2653e5-cf88-4ce5-76bd-bdff4bd88fbf>
   PrefabRemaps:
     []
   Name: Render Mesh Visual

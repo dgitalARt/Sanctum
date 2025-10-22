@@ -4,7 +4,7 @@
   ImporterName: JsonAssetImporter
   PrimaryAsset: !<reference> 4c39d8f0-2f21-4038-a774-a3a8c8e5cd71
   PackageType: NotAPackage
-  PackagePolicy: CannotBeUnpacked
+  LegacyPackagePolicy: ~
   ExtraData:
     {}
   AssetDataMap:
