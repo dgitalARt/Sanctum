@@ -147,7 +147,7 @@ Animated geometric patterns underwent careful design to avoid:
 
 1. **Clone Repository**
    ```bash
-   git clone https://github.com/yourusername/sanctum.git
+   git clone https://github.com/dgitalARt/sanctum.git
    cd sanctum
    ```
 
